@@ -1,0 +1,428 @@
+name,gender,status,species,image
+Philip J. Fry,Male,Alive,Human,/static/img/human/philip-j_-fry.webp
+Morgan Proctor,Female,Alive,Human,/static/img/human/morgan-proctor.webp
+Mugger,Male,Alive,Human,/static/img/human/mugger.webp
+Ned Farnsworth,Male,Alive,Human,/static/img/human/ned-farnsworth.webp
+Nina,Female,Alive,Human,/static/img/human/nina.webp
+Nichelle Nichols (character),Female,,Human,/static/img/human/nichelle-nichols-_character_.webp
+Mr. Panucci,Male,Dead,Human,/static/img/human/mr_-panucci.webp
+Number 9 man,Male,,Human,/static/img/human/number-9-man.webp
+Njörd,Female,Dead,Human,/static/img/human/nj_rd.webp
+Mildred Fry,Female,Dead,Human,/static/img/human/mildred-fry.webp
+Minx,Female,Alive,Human,/static/img/human/minx.webp
+Michelle Jenkins,Female,Alive,Human,/static/img/human/michelle-jenkins.webp
+Marianne,Female,Alive,Human,/static/img/human/marianne.webp
+Lou,Male,Alive,Human,/static/img/human/lou.webp
+The Little Prince,Male,,Human,/static/img/human/the-little-prince.webp
+Bender Bending Rodríguez,Male,Alive,Robot,/static/img/robot/bender-bending-rodr_guez.webp
+Tritonian Yeti,Male,Alive,Monster,/static/img/monster/tritonian-yeti.webp
+Yanos,,,,/static/img/unknown/yanos.webp
+Bigfoot,Male,Alive,Monster,/static/img/monster/bigfoot.webp
+Loch Ness Monster,Female,Alive,Monster,/static/img/monster/loch-ness-monster.webp
+Pazuzu,Male,Alive,Monster,/static/img/monster/pazuzu.webp
+Walter Koenig,,,,/static/img/unknown/walter-koenig.webp
+Walter Mondale's head,Male,,Human,/static/img/human/walter-mondale_s-head.webp
+Mom,Female,Alive,Human,/static/img/human/mom.webp
+Tom Cruise's head,Male,,Human,
+Tim Allen's head,Male,,Human,
+Stephen Hawking,Male,,,/static/img/unknown/stephen-hawking.webp
+Sharon Stone's head,Female,,Human,
+El chupanibre,Male,,Mutant,/static/img/mutant/el-chupanibre.webp
+Sarah Michelle Gellar's head,Female,,Human,
+William Shatner's head,Male,,Human,/static/img/human/william-shatner_s-head.webp
+Robert Wagner's head,Male,Alive,Human,/static/img/human/robert-wagner_s-head.webp
+William Howard Taft's head,Male,,Human,/static/img/human/william-howard-taft_s-head.webp
+Ross Perot's head,Male,,Human,/static/img/human/ross-perot_s-head.webp
+Warren G. Harding's head,Male,,Human,
+Ronald Reagan's head,Male,,Human,/static/img/human/ronald-reagan_s-head.webp
+Traci Lords' head,Female,,Human,/static/img/human/traci-lords_-head.webp
+Thomas Jefferson's head,Male,,Human,/static/img/human/thomas-jefferson_s-head.webp
+Theodore Roosevelt's head,Male,,Human,/static/img/human/theodore-roosevelt_s-head.webp
+Sylvester Stalone's head,Male,,Human,
+Rob Reiner's head,Male,,Human,/static/img/human/rob-reiner_s-head.webp
+Snoop Dogg's head,Male,,Human,/static/img/human/snoop-dogg_s-head.webp
+Sergio Aragonés' head,Male,,Human,/static/img/human/sergio-aragon_s_-head.webp
+Rich Little's head,Male,,Human,/static/img/human/rich-little_s-head.webp
+Rebecca Romijn's head,Female,,Human,/static/img/human/rebecca-romijn_s-head.webp
+Samuel Genital's head,Male,,Human,/static/img/human/samuel-genital_s-head.webp
+Mimi Rogers' head,Female,,Human,
+Michael Dukakis' head,Male,,Human,
+Matt Groening's head,Male,Alive,Human,/static/img/human/matt-groening_s-head.webp
+Martin Lawrence's head,Male,,Human,
+Ron Popeil's head,Male,,Human,/static/img/human/ron-popeil_s-head.webp
+Lassie,,,,
+Ron Jeremy's head,Male,,Human,/static/img/human/ron-jeremy_s-head.webp
+Richard M. Nixon's head,Male,Dead,Human,/static/img/human/richard-m_-nixon_s-head.webp
+Lyndon LaRouche's head,Male,,Human,
+Penn Jillette's head,Male,,Human,/static/img/human/penn-jillette_s-head.webp
+Pamela Anderson's head,Female,,Human,/static/img/human/pamela-anderson_s-head.webp
+Orson Welles' head,Male,,Human,/static/img/human/orson-welles_-head.webp
+Nicole Kidman's head,Female,,Human,
+Lucille Ball's head,Female,,Human,
+Napoleon's head,Male,,Human,
+Laetitia Casta's head,Female,,Human,/static/img/human/laetitia-casta_s-head.webp
+Martin Van Buren's head,Male,,Human,/static/img/human/martin-van-buren_s-head.webp
+Jon Stewart's head,Male,,Human,
+John Turturro's head,Male,,Human,
+Martha Stewart's head,Female,,Human,/static/img/human/martha-stewart_s-head.webp
+Jay Leno's head,Male,,Human,
+Jerry Seinfeld's head,Male,,Human,
+Lucy Liu's head,Female,Alive,Human,/static/img/human/lucy-liu_s-head.webp
+Jacques Cousteau's head,Male,,Human,
+Jack Nicholson's head,Male,,Human,
+Leonardo DiCaprio's head,Male,,Human,/static/img/human/leonardo-dicaprio_s-head.webp
+Long Dong Silver's head,Male,,Human,/static/img/human/long-dong-silver_s-head.webp
+Leonard Nimoy's head,Male,Alive,Human,/static/img/human/leonard-nimoy_s-head.webp
+Jonathan Frakes' head,Male,Alive,Human,/static/img/human/jonathan-frakes_-head.webp
+Kate Moss's head,Female,,Human,/static/img/human/kate-moss_s-head.webp
+Henry Kissinger's head,Male,,Human,/static/img/human/henry-kissinger_s-head.webp
+Heidi Klum's head,Female,,Human,/static/img/human/heidi-klum_s-head.webp
+Gillian Anderson's head,Female,,Human,
+Joan Rivers' head,Female,Alive,Human,/static/img/human/joan-rivers_-head.webp
+Jimmy Carter's head,Male,,Human,/static/img/human/jimmy-carter_s-head.webp
+Jill Big Breasts' head,Female,,Human,/static/img/human/jill-big-breasts_-head.webp
+George Takei,,,,/static/img/unknown/george-takei.webp
+George Foreman's head,Male,Alive,Human,/static/img/human/george-foreman_s-head.webp
+Eric Stoltz's head,Male,,Human,
+Eric Cartman's head,Male,,Human,/static/img/human/eric-cartman_s-head.webp
+Homer Simpson's head,Male,Alive,Human,/static/img/human/homer-simpson_s-head.webp
+Herbert Hoover's head,Male,,Human,/static/img/human/herbert-hoover_s-head.webp
+Dick Clark's head,Male,Alive,Human,/static/img/human/dick-clark_s-head.webp
+Dick Cheney's head,Male,,Human,/static/img/human/dick-cheney_s-head.webp
+Elizabeth Taylor's head,Female,,Human,/static/img/human/elizabeth-taylor_s-head.webp
+DeForest Kelley's head,Male,,Human,/static/img/human/deforest-kelley_s-head.webp
+Hank Aaron's head,Male,Alive,Human,/static/img/human/hank-aaron_s-head.webp
+Harry S. Truman's head,Male,,Human,/static/img/human/harry-s_-truman_s-head.webp
+Grover Cleveland's head,Male,Alive,Human,/static/img/human/grover-cleveland_s-head.webp
+David X. Cohen's head,Male,Alive,Human,/static/img/human/david-x_-cohen_s-head.webp
+Clint Eastwood's head,Male,,Human,
+Gerald Ford's head,Male,,Human,/static/img/human/gerald-ford_s-head.webp
+Claudia Schiffer's head,Female,,Human,/static/img/human/claudia-schiffer_s-head.webp
+George Washington's head,Male,Alive,Human,/static/img/human/george-washington_s-head.webp
+George H. W. Bush's head,Male,,Human,/static/img/human/george-h_-w_-bush_s-head.webp
+Cindy Crawford's head,Female,,Human,/static/img/human/cindy-crawford_s-head.webp
+Checkers' head,Male,,Head,/static/img/head/checkers_-head.webp
+Chester Z. Arthur,Male,Alive,Human,/static/img/human/chester-z_-arthur.webp
+Charlie Chaplin's head,Male,,Human,
+Elvis Presley's head,Male,Dead,Human,/static/img/human/elvis-presley_s-head.webp
+David Duchovny's head,Male,,Human,/static/img/human/david-duchovny_s-head.webp
+Conan O'Brien's head,Male,Alive,Human,/static/img/human/conan-o_brien_s-head.webp
+Apu Nahasapeemapetilon's head,,,,
+Chester A. Arthur's head,Male,,Human,/static/img/human/chester-a_-arthur_s-head.webp
+Bob Uecker's head,Male,Alive,Human,/static/img/human/bob-uecker_s-head.webp
+Charles de Gaulle's head,Male,,Human,/static/img/human/charles-de-gaulle_s-head.webp
+Bob Dole's head,Male,,Human,/static/img/human/bob-dole_s-head.webp
+Bob Barker's head,Male,,Human,/static/img/human/bob-barker_s-head.webp
+Billy Crystal's head,Male,,Human,/static/img/human/billy-crystal_s-head.webp
+Bill Clinton's head,Male,,Human,/static/img/human/bill-clinton_s-head.webp
+Adam West,Male,,,/static/img/unknown/adam-west.webp
+Benjamin Harrison's head,Male,,Human,/static/img/human/benjamin-harrison_s-head.webp
+Benjamin Franklin's head,Male,,Human,
+Beck's head,Male,Alive,Human,/static/img/human/beck_s-head.webp
+Liubot,Female,Dead,Robot,/static/img/robot/liubot.webp
+Army of the Damned,,,,/static/img/unknown/army-of-the-damned.webp
+Beastie Boys' heads,Male,Alive,Human,/static/img/human/beastie-boys_-heads.webp
+Hermes bot,,,,/static/img/unknown/hermes-bot.webp
+Antonin Scalia's head,Male,Alive,Human,/static/img/human/antonin-scalia_s-head.webp
+Andrew Jackson's head,Male,,Human,/static/img/human/andrew-jackson_s-head.webp
+Bender duplicates,,,,/static/img/unknown/bender-duplicates.webp
+Hooker bots,,,,
+Kill bots,,,,
+Vladimir,Male,Dead,Robot,/static/img/robot/vladimir.webp
+URL,Male,Alive,Robot,/static/img/robot/url.webp
+Robot 1x,Male,Alive,Robot,/static/img/robot/robot-1x.webp
+Suspendington,,,,/static/img/unknown/suspendington.webp
+Al Gore's head,Male,Alive,Human,/static/img/human/al-gore_s-head.webp
+Smiley Smith,,,,
+Sergeant Feces Processor,Male,Alive,Robot,/static/img/robot/sergeant-feces-processor.webp
+Roberto V2.0,,,,/static/img/unknown/roberto-v2_0.webp
+Sinclair 2K,Male,Alive,Robot,/static/img/robot/sinclair-2k.webp
+Abraham Lincoln's head,Male,,Human,/static/img/human/abraham-lincoln_s-head.webp
+Planet Express ship,Male,Alive,Head,/static/img/head/planet-express-ship.webp
+Robot fox,,,,/static/img/unknown/robot-fox.webp
+Roberto,Male,Alive,Robot,/static/img/robot/roberto.webp
+Robot Santa Claus,Male,Alive,Robot,/static/img/robot/robot-santa-claus.webp
+Professor Bot,,,,/static/img/unknown/professor-bot.webp
+Rectal Exam-bot,,,,
+Parts Hilton,Female,Alive,Robot,/static/img/robot/parts-hilton.webp
+Nurse Ratchet,Female,Alive,Robot,/static/img/robot/nurse-ratchet.webp
+Oily,Male,Alive,Robot,/static/img/robot/oily.webp
+Paco,,,,/static/img/unknown/paco.webp
+Monique,Female,Alive,Robot,/static/img/robot/monique.webp
+Malfunctioning Eddie,Male,Alive,Robot,/static/img/robot/malfunctioning-eddie.webp
+Mad Hatter Robot,Male,Alive,Robot,/static/img/robot/mad-hatter-robot.webp
+Macaulay Culckon,Male,Alive,Robot,/static/img/robot/macaulay-culckon.webp
+Tiny Tim,Male,Alive,Robot,/static/img/robot/tiny-tim.webp
+Lulubelle 7,Female,Alive,Robot,/static/img/robot/lulubelle-7.webp
+Leelabot,Female,,Robot,/static/img/robot/leelabot.webp
+Lisa,Female,Alive,Robot,/static/img/robot/lisa.webp
+Kwanzaabot,Male,Alive,Robot,/static/img/robot/kwanzaabot.webp
+Master of the Hunt,Male,,Robot,/static/img/robot/master-of-the-hunt.webp
+Judge 802,Female,Alive,Robot,/static/img/robot/judge-802.webp
+Judge 724,Male,Alive,Robot,/static/img/robot/judge-724.webp
+Judge 723,Male,Dead,Robot,/static/img/robot/judge-723.webp
+Robot Devil,Male,Alive,Robot,/static/img/robot/robot-devil.webp
+The Robot Elders,Male,Alive,Robot,/static/img/robot/the-robot-elders.webp
+Preacherbot,Male,Alive,Robot,/static/img/robot/preacherbot.webp
+Joey Mousepad,Male,Alive,Robot,/static/img/robot/joey-mousepad.webp
+Jezabel,,,,/static/img/unknown/jezabel.webp
+John Quincy Adding Machine,Male,,Robot,/static/img/robot/john-quincy-adding-machine.webp
+IZac,Male,Alive,Robot,/static/img/robot/izac.webp
+IHawk,Male,Alive,Robot,/static/img/robot/ihawk.webp
+Humorbot 5.0,Male,,Robot,/static/img/robot/humorbot-5_0.webp
+Hedonismbot,Male,Alive,Robot,/static/img/robot/hedonismbot.webp
+Hair Robot,Male,Alive,Robot,/static/img/robot/hair-robot.webp
+Gearshift,Male,Alive,Robot,/static/img/robot/gearshift.webp
+Frybot,Male,,Robot,/static/img/robot/frybot.webp
+Frankie,Male,Alive,Robot,/static/img/robot/frankie.webp
+Francis X. Clampazzo,Male,Alive,Robot,/static/img/robot/francis-x_-clampazzo.webp
+Foreigner,Male,Alive,Robot,/static/img/robot/foreigner.webp
+Flexo,Male,Alive,Robot,/static/img/robot/flexo.webp
+Fender,Male,Alive,Robot,/static/img/robot/fender.webp
+Fatbot,Male,Alive,Robot,/static/img/robot/fatbot.webp
+Farmer Bot,,,,/static/img/unknown/farmer-bot.webp
+Fanny,Female,Alive,Robot,/static/img/robot/fanny.webp
+Fan,Male,Alive,Robot,/static/img/robot/fan.webp
+Fabricio,,,,/static/img/unknown/fabricio.webp
+"Emotitron, Jr.",Male,Alive,Robot,/static/img/robot/emotitron_-jr_.webp
+Femputer,Female,Alive,Robot,/static/img/robot/femputer.webp
+Dr. Perceptron,Male,Alive,Robot,/static/img/robot/dr_-perceptron.webp
+Doug,,,,/static/img/unknown/doug.webp
+Donbot,Male,Alive,Robot,/static/img/robot/donbot.webp
+Destructor,Male,Alive,Robot,/static/img/robot/destructor.webp
+Daisy-Mae 128K,Female,Alive,Robot,/static/img/robot/daisy-mae-128k.webp
+Cymbal-Banging Monkey,Male,Alive,Robot,/static/img/robot/cymbal-banging-monkey.webp
+Gorgeous Gonks,Male,Dead,Robot,/static/img/robot/gorgeous-gonks.webp
+Enemabot,,,Robot,/static/img/robot/enemabot.webp
+Pickles,Male,Alive,Robot,/static/img/robot/pickles.webp
+Gammabot,Female,Alive,Robot,/static/img/robot/gammabot.webp
+Unit 2013,Male,Alive,Robot,/static/img/robot/unit-2013.webp
+Keg Robot,Male,,Robot,/static/img/robot/keg-robot.webp
+Crushinator,Female,Alive,Robot,/static/img/robot/crushinator.webp
+Countess de la Roca,Female,Dead,Robot,/static/img/robot/countess-de-la-roca.webp
+Comrade Greeting Card,,Dead,Robot,/static/img/robot/comrade-greeting-card.webp
+Chain Smoker,Male,Alive,Robot,/static/img/robot/chain-smoker.webp
+Charlotte Widnar,Female,Alive,Robot,/static/img/robot/charlotte-widnar.webp
+Cartridge Unit,Male,Alive,Robot,/static/img/robot/cartridge-unit.webp
+Calculon,Male,Alive,Robot,/static/img/robot/calculon.webp
+Boxy,Male,Alive,Robot,/static/img/robot/boxy.webp
+Billy West (character),Male,Dead,Robot,/static/img/robot/billy-west-_character_.webp
+Billionairebot,Male,Alive,Robot,/static/img/robot/billionairebot.webp
+Emperor Nikolai,Male,Alive,Robot,/static/img/robot/emperor-nikolai.webp
+Big Caboose,,,,/static/img/unknown/big-caboose.webp
+Ben Rodríguez,Male,Alive,Robot,/static/img/robot/ben-rodr_guez.webp
+Bev,Female,Alive,Robot,/static/img/robot/bev.webp
+"Antonio Calculon, Jr.",Male,Dead,Robot,/static/img/robot/antonio-calculon_-jr_.webp
+Bella,Female,Alive,Robot,/static/img/robot/bella.webp
+Basil,Male,Dead,Robot,/static/img/robot/basil.webp
+Animatronio,Male,Alive,Robot,/static/img/robot/animatronio.webp
+Angleyne,Female,Alive,Robot,/static/img/robot/angleyne.webp
+Andrew,Male,Dead,Robot,/static/img/robot/andrew.webp
+Mecha Hermes,,,,/static/img/unknown/mecha-hermes.webp
+Abraham Lincolnbot,Male,,Robot,/static/img/robot/abraham-lincolnbot.webp
+Ab-Bot,,,,/static/img/unknown/ab-bot.webp
+7¹¹ robot,Male,Alive,Robot,/static/img/robot/7__-robot.webp
+The Clearcutter,Male,,Robot,/static/img/robot/the-clearcutter.webp
+147573952589676412927,,,,/static/img/unknown/147573952589676412927.webp
+Vyolet,Female,Alive,Mutant,/static/img/mutant/vyolet.webp
+Virginia,Female,,Mutant,/static/img/mutant/virginia.webp
+Betabot,Male,Alive,Robot,/static/img/robot/betabot.webp
+Umbriel,Female,Alive,Monster,/static/img/monster/umbriel.webp
+Turanga Munda,Female,Alive,Mutant,/static/img/mutant/turanga-munda.webp
+Turanga Morris,Male,Alive,Mutant,/static/img/mutant/turanga-morris.webp
+Thorias,Male,Alive,Mutant,/static/img/mutant/thorias.webp
+Bender Bending Rodríguez's first born son,Male,Dead,Robot,/static/img/robot/bender-bending-rodr_guez_s-first-born-son.webp
+Mandy,Female,Alive,Mutant,/static/img/mutant/mandy.webp
+Mouth Mutant,,,,/static/img/unknown/mouth-mutant.webp
+Moose,Male,Alive,Mutant,/static/img/mutant/moose.webp
+Lazar,Male,Alive,Mutant,/static/img/mutant/lazar.webp
+Grotrian,Male,Alive,Mutant,/static/img/mutant/grotrian.webp
+Fly Mutant,Male,,Mutant,/static/img/mutant/fly-mutant.webp
+Alphabot,Male,Alive,Robot,/static/img/robot/alphabot.webp
+Colonel (mutant),,,,/static/img/unknown/colonel-_mutant_.webp
+Dwayne,Male,Alive,Mutant,/static/img/mutant/dwayne.webp
+Mr. Astor,Male,Alive,Human,/static/img/human/mr_-astor.webp
+Armo,Male,Alive,Mutant,/static/img/mutant/armo.webp
+Colonel (merman),Male,Alive,Monster,/static/img/monster/colonel-_merman_.webp
+Arachneon,Male,Dead,Mutant,/static/img/mutant/arachneon.webp
+Zoidfarb,Male,Alive,Alien,/static/img/alien/zoidfarb.webp
+Munda's mother,Female,Alive,Mutant,/static/img/mutant/munda_s-mother.webp
+Munda's grandmother,Female,Dead,Mutant,/static/img/mutant/munda_s-grandmother.webp
+Female Zoidberg,Female,Alive,Alien,/static/img/alien/female-zoidberg.webp
+Yivo,,Alive,Alien,/static/img/alien/yivo.webp
+Andy Goldman,Male,,Mutant,/static/img/mutant/andy-goldman.webp
+Thog,Female,Alive,Alien,/static/img/alien/thog.webp
+Tarquin,,,,/static/img/unknown/tarquin.webp
+Raoul,Male,Alive,Human,/static/img/human/raoul.webp
+Singing Wind,Male,,Alien,/static/img/alien/singing-wind.webp
+Slurm Queen,Female,Alive,Alien,/static/img/alien/slurm-queen.webp
+Space Pope,Male,Alive,Alien,/static/img/alien/space-pope.webp
+Slurms MacKenzie,Male,Dead,Alien,/static/img/alien/slurms-mackenzie.webp
+Silicon Red,,,,
+Sandy,Female,Alive,Alien,/static/img/alien/sandy.webp
+Sam Zoidberg,,,,/static/img/unknown/sam-zoidberg.webp
+Princess Num Num,Female,Alive,Alien,/static/img/alien/princess-num-num.webp
+Ornik,Female,Alive,Alien,/static/img/alien/ornik.webp
+Norman Zoidberg,Male,Dead,Alien,/static/img/alien/norman-zoidberg.webp
+Norm Zoidberg,Male,Dead,Alien,/static/img/alien/norm-zoidberg.webp
+Neutral President,Male,Alive,Alien,/static/img/alien/neutral-president.webp
+Ndnd,Female,Alive,Alien,/static/img/alien/ndnd.webp
+Mr. and Mrs. Kroker,Male,Alive,Alien,/static/img/alien/mr_-and-mrs_-kroker.webp
+Moivin,Male,Alive,Alien,/static/img/alien/moivin.webp
+Morbo,Male,Alive,Alien,/static/img/alien/morbo.webp
+Mr. Peppy,,Alive,Monster,/static/img/monster/mr_-peppy.webp
+Melllvar,Male,Alive,Alien,/static/img/alien/melllvar.webp
+"Malachi, Jr.",Male,Dead,Alien,/static/img/alien/malachi_-jr_.webp
+"Malachi, Sr.",Male,Dead,Alien,/static/img/alien/malachi_-sr_.webp
+Leonardo da Vinci,Male,Dead,Human,/static/img/human/leonardo-da-vinci.webp
+Lrrr,Male,Alive,Alien,/static/img/alien/lrrr.webp
+Lord Nibbler,Male,Alive,Alien,/static/img/alien/lord-nibbler.webp
+Kif Kroker,Male,Alive,Alien,/static/img/alien/kif-kroker.webp
+Ladybuggle,Female,Alive,Alien,/static/img/alien/ladybuggle.webp
+Langdon Cobb,Male,Alive,Human,/static/img/human/langdon-cobb.webp
+Jrrr,Male,Alive,Alien,/static/img/alien/jrrr.webp
+Hobsy,Male,Alive,Alien,/static/img/alien/hobsy.webp
+Kug,Female,Alive,Alien,/static/img/alien/kug.webp
+H. G. Blob,Male,,Alien,/static/img/alien/h_-g_-blob.webp
+Mystic aldermen of the Sun,Male,Alive,Alien,/static/img/alien/mystic-aldermen-of-the-sun.webp
+Melllvar's Mother,Female,Alive,Alien,/static/img/alien/melllvar_s-mother.webp
+Grand Midwife,Female,,Alien,/static/img/alien/grand-midwife.webp
+Rock Alien,Male,Dead,Alien,/static/img/alien/rock-alien.webp
+Harold Zoid,Male,Alive,Alien,/static/img/alien/harold-zoid.webp
+Glurmo,Male,Alive,Alien,/static/img/alien/glurmo.webp
+Fnog,Male,Alive,Alien,/static/img/alien/fnog.webp
+Garglie,Male,Alive,Alien,/static/img/alien/garglie.webp
+Flamo,Male,Alive,Alien,/static/img/alien/flamo.webp
+Fawn,Female,Alive,Alien,/static/img/alien/fawn.webp
+"Malachi, Sr.'s wife",Female,Dead,Alien,/static/img/alien/malachi_-sr__s-wife.webp
+Feffernoose,Male,Alive,Alien,/static/img/alien/feffernoose.webp
+Elzar,Male,Alive,Alien,/static/img/alien/elzar.webp
+Edna,Female,,Alien,/static/img/alien/edna.webp
+Drrr,Male,Alive,Alien,/static/img/alien/drrr.webp
+Doingg,Male,Alive,Alien,/static/img/alien/doingg.webp
+Brett Blob,Male,,Alien,/static/img/alien/brett-blob.webp
+Borax Kid,Male,Alive,Alien,/static/img/alien/borax-kid.webp
+Admiral Chu,Male,,Alien,/static/img/alien/admiral-chu.webp
+Zapp Brannigan,Male,Alive,Human,/static/img/human/zapp-brannigan.webp
+Yuri,,,,/static/img/unknown/yuri.webp
+Alcazar,Male,,Alien,/static/img/alien/alcazar.webp
+Grunka-Lunkas,,,,/static/img/unknown/grunka-lunkas.webp
+Biff,Male,,Human,/static/img/human/biff.webp
+You There,Male,Alive,Human,/static/img/human/you-there.webp
+"Yancy Fry, Sr.",Male,Dead,Human,/static/img/human/yancy-fry_-sr_.webp
+Vernon,Male,Alive,Human,/static/img/human/vernon.webp
+Walt,Male,,Human,/static/img/human/walt.webp
+Velma Farnsworth,Female,Alive,Human,/static/img/human/velma-farnsworth.webp
+Yancy Fry,Male,Dead,Human,/static/img/human/yancy-fry.webp
+Vogel,Male,Alive,Human,/static/img/human/vogel.webp
+Sheriff Furley,,,,
+"""Tex"" Connecticut",Male,Dead,Human,/static/img/human/tex_-connecticut.webp
+Giant Unattractive Monster,Male,Dead,Monster,/static/img/monster/giant-unattractive-monster.webp
+Scruffy Scruffington,Male,Alive,Human,/static/img/human/scruffy-scruffington.webp
+Sam,Male,Alive,Human,/static/img/human/sam.webp
+Sean,Male,Alive,Human,/static/img/human/sean.webp
+Sally,Female,Alive,Mutant,/static/img/mutant/sally.webp
+Randy Munchnik,Male,Alive,Human,/static/img/human/randy-munchnik.webp
+Sal,Male,,Human,/static/img/human/sal.webp
+Philip J. Fry II,Male,Dead,Human,/static/img/human/philip-j_-fry-ii.webp
+Ogden Wernstrom,Male,Alive,Human,/static/img/human/ogden-wernstrom.webp
+Old Man Waterfall,Male,Dead,Human,/static/img/human/old-man-waterfall.webp
+Leroy,Male,Dead,Human,/static/img/human/leroy.webp
+Lauren Cahill,Female,Alive,Human,/static/img/human/lauren-cahill.webp
+Linda van Schoonhoven,Female,Alive,Human,/static/img/human/linda-van-schoonhoven.webp
+Petunia,Female,Alive,Human,/static/img/human/petunia.webp
+Lars Fillmore,Male,Dead,Human,/static/img/human/lars-fillmore.webp
+Leo Wong,Male,Alive,Human,/static/img/human/leo-wong.webp
+Larry,Male,,Human,/static/img/human/larry.webp
+LaBarbara Conrad,Female,Alive,Human,/static/img/human/labarbara-conrad.webp
+John Jackson,Male,,Human,/static/img/human/john-jackson.webp
+Joe (Nation of Joe),Male,Alive,Human,/static/img/human/joe-_nation-of-joe_.webp
+Kirk,Male,,Human,/static/img/human/kirk.webp
+Koji,Male,Alive,Human,/static/img/human/koji.webp
+Joe (defrostee),Male,Alive,Human,/static/img/human/joe-_defrostee_.webp
+Jim,Male,Dead,Human,/static/img/human/jim.webp
+Jeremy,Male,Dead,Human,/static/img/human/jeremy.webp
+"""Curly"" Joe",Male,Alive,Alien,/static/img/alien/curly_-joe.webp
+Jenny McNeal,Female,Dead,Human,/static/img/human/jenny-mcneal.webp
+Jackie Anderson,Female,Alive,Human,/static/img/human/jackie-anderson.webp
+Ipji,Male,Alive,Human,/static/img/human/ipji.webp
+Jack Johnson,Male,,Human,/static/img/human/jack-johnson.webp
+J. J. Abrams,Male,Dead,Human,/static/img/human/j_-j_-abrams.webp
+Inez Wong,Female,Alive,Human,/static/img/human/inez-wong.webp
+Igner,Male,Alive,Human,/static/img/human/igner.webp
+Human friend,Male,Alive,Human,/static/img/human/human-friend.webp
+Human (character),Male,Dead,Robot,/static/img/robot/human-_character_.webp
+Helmut Spargle,Male,Dead,Human,/static/img/human/helmut-spargle.webp
+Headless Body of Spiro Agnew,Male,Alive,Human,/static/img/human/headless-body-of-spiro-agnew.webp
+Hutch Waterfall,Male,Dead,Human,/static/img/human/hutch-waterfall.webp
+Hattie McDoogal,Female,,Human,/static/img/human/hattie-mcdoogal.webp
+Head of the ACLU,Male,Alive,Human,/static/img/human/head-of-the-aclu.webp
+Hank Aaron XXIV,Male,Alive,Human,/static/img/human/hank-aaron-xxiv.webp
+Hacking Jack,Male,Alive,Human,/static/img/human/hacking-jack.webp
+Gus,Male,Alive,Human,/static/img/human/gus.webp
+Gary Gygax (character),Male,,Human,/static/img/human/gary-gygax-_character_.webp
+Frydo,Male,Dead,Human,/static/img/human/frydo.webp
+Frida Waterfall,Female,Dead,Human,/static/img/human/frida-waterfall.webp
+Gwen,Female,Alive,Human,/static/img/human/gwen.webp
+"Free Waterfall, Sr.",Male,Dead,Human,/static/img/human/free-waterfall_-sr_.webp
+"Free Waterfall, Jr.",Male,Dead,Human,/static/img/human/free-waterfall_-jr_.webp
+Free Waterfall III,Male,Dead,Human,/static/img/human/free-waterfall-iii.webp
+Floyd Farnsworth,Male,,Human,/static/img/human/floyd-farnsworth.webp
+Hermes Conrad's fan,Male,Dead,Human,/static/img/human/hermes-conrad_s-fan.webp
+Human horn,,,,/static/img/unknown/human-horn.webp
+Farmer,Male,Alive,Human,/static/img/human/farmer.webp
+Fishy Joe,Male,Alive,Human,/static/img/human/fishy-joe.webp
+Hubert J. Farnsworth's girlfriend,Female,Alive,Human,/static/img/human/hubert-j_-farnsworth_s-girlfriend.webp
+Enos Fry,Male,Dead,Human,/static/img/human/enos-fry.webp
+"Ethan ""Bubblegum"" Tate",Male,Alive,Alien,/static/img/alien/ethan-_bubblegum_-tate.webp
+Elizabeth Bennet,Female,,Human,/static/img/human/elizabeth-bennet.webp
+Dwight Conrad,Male,Alive,Human,/static/img/human/dwight-conrad.webp
+Dr. Schlovinowitz,Female,Dead,Human,/static/img/human/dr_-schlovinowitz.webp
+David Farnsworth,Male,Dead,Human,/static/img/human/david-farnsworth.webp
+Dandy Jim,Male,Alive,Human,/static/img/human/dandy-jim.webp
+Cubert J. Farnsworth,Male,Alive,Human,/static/img/human/cubert-j_-farnsworth.webp
+Craterface,Male,Alive,,/static/img/unknown/craterface.webp
+Mrs. Fry,Female,Dead,Human,/static/img/human/mrs_-fry.webp
+Darlene,Female,Alive,Human,/static/img/human/darlene.webp
+Gary (season 2),Male,Alive,Human,/static/img/human/gary-_season-2_.webp
+Crack addict,Male,,Human,/static/img/human/crack-addict.webp
+Crack mansion butler,Male,,Human,/static/img/human/crack-mansion-butler.webp
+Mrs. Conrad,Female,Dead,Human,/static/img/human/mrs_-conrad.webp
+Mr. Conrad,Male,,Human,/static/img/human/mr_-conrad.webp
+Chu,Male,Alive,Human,/static/img/human/chu.webp
+Chaz,Male,Alive,Human,/static/img/human/chaz.webp
+Charles Constantine,Male,Dead,Human,/static/img/human/charles-constantine.webp
+Charles,,,,
+Colleen O'Hallahan,Female,Alive,Human,/static/img/human/colleen-o_hallahan.webp
+Candy,Female,Alive,Human,/static/img/human/candy.webp
+C. Randall Poopenmeyer,Male,Alive,Human,/static/img/human/c_-randall-poopenmeyer.webp
+Captain Musky,Male,,Human,/static/img/human/captain-musky.webp
+Buzz Aldrin (character),Male,Dead,Human,/static/img/human/buzz-aldrin-_character_.webp
+Butch,Male,,Human,/static/img/human/butch.webp
+Boobs Vanderbilt,Female,Dead,Human,/static/img/human/boobs-vanderbilt.webp
+Bill McNeal,Male,Dead,Human,/static/img/human/bill-mcneal.webp
+Benny,Male,Alive,Human,/static/img/human/benny.webp
+Beth Jenkins,Female,Dead,Human,/static/img/human/beth-jenkins.webp
+Dixie,Female,Alive,Human,/static/img/human/dixie.webp
+Barbados Slim,Male,Alive,Human,/static/img/human/barbados-slim.webp
+Conspiracy nutter,Male,Dead,Human,/static/img/human/conspiracy-nutter.webp
+Barack Obama,Male,,Human,/static/img/human/barack-obama.webp
+Mrs. Astor,Female,Alive,Human,/static/img/human/mrs_-astor.webp
+Angus MacZongo,Male,Alive,Human,/static/img/human/angus-maczongo.webp
+Andy Warhol,Male,,Human,/static/img/human/andy-warhol.webp
+John,,,,
+Armando,Male,Alive,Human,/static/img/human/armando.webp
+Albert,Male,Alive,Human,/static/img/human/albert.webp
+Abner Doubledeal,Male,Alive,Human,/static/img/human/abner-doubledeal.webp
+Adlai Atkins,Male,Alive,Human,/static/img/human/adlai-atkins.webp
+7¹¹ Clerk,Male,Alive,Human,/static/img/human/7__-clerk.webp
+21st Century Woman,Female,Alive,Human,/static/img/human/21st-century-woman.webp
+Butch's mother,Female,,Human,/static/img/human/butch_s-mother.webp
+John A. Zoidberg,Male,Alive,Alien,/static/img/alien/john-a_-zoidberg.webp
+Hermes Conrad,Male,Alive,Human,/static/img/human/hermes-conrad.webp
+Butch's girlfriend,Female,,Human,/static/img/human/butch_s-girlfriend.webp
+Amy Wong-Kroker,Female,Alive,Human,/static/img/human/amy-wong-kroker.webp
+Hubert J. Farnsworth,Male,Alive,Human,/static/img/human/hubert-j_-farnsworth.webp
+Turanga Leela,Female,Alive,Human,/static/img/human/turanga-leela.webp
+'tude Guard,Male,Alive,Human,/static/img/human/tude-guard.webp
+Australian man,Male,,Human,/static/img/human/australian-man.webp

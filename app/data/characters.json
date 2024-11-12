@@ -1,3845 +1,2991 @@
 [
   {
-    "id": 1,
     "name": "Philip J. Fry",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/philip-j_-fry.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/philip-j_-fry.webp"
   },
   {
-    "id": 2,
     "name": "Morgan Proctor",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/morgan-proctor.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/morgan-proctor.webp"
   },
   {
-    "id": 3,
     "name": "Mugger",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mugger.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/mugger.webp"
   },
   {
-    "id": 4,
     "name": "Ned Farnsworth",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ned-farnsworth.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/ned-farnsworth.webp"
   },
   {
-    "id": 5,
     "name": "Nina",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/nina.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/nina.webp"
   },
   {
-    "id": 6,
     "name": "Nichelle Nichols (character)",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/nichelle-nichols-_character_.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/nichelle-nichols-_character_.webp"
   },
   {
-    "id": 7,
     "name": "Mr. Panucci",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mr_-panucci.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/mr_-panucci.webp"
   },
   {
-    "id": 8,
     "name": "Number 9 man",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/number-9-man.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/number-9-man.webp"
   },
   {
-    "id": 9,
     "name": "Nj\u00f6rd",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/nj_rd.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/nj_rd.webp"
   },
   {
-    "id": 10,
     "name": "Mildred Fry",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mildred-fry.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/mildred-fry.webp"
   },
   {
-    "id": 11,
     "name": "Minx",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/minx.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/minx.webp"
   },
   {
-    "id": 12,
     "name": "Michelle Jenkins",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/michelle-jenkins.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/michelle-jenkins.webp"
   },
   {
-    "id": 13,
     "name": "Marianne",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/marianne.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/marianne.webp"
   },
   {
-    "id": 14,
     "name": "Lou",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/lou.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/lou.webp"
   },
   {
-    "id": 15,
     "name": "The Little Prince",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/the-little-prince.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/the-little-prince.webp"
   },
   {
-    "id": 16,
     "name": "Bender Bending Rodr\u00edguez",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/bender-bending-rodr_guez.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/bender-bending-rodr_guez.webp"
   },
   {
-    "id": 17,
     "name": "Tritonian Yeti",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/tritonian-yeti.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/tritonian-yeti.webp"
   },
   {
-    "id": 18,
     "name": "Yanos",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/yanos.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/yanos.webp"
   },
   {
-    "id": 19,
     "name": "Bigfoot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/bigfoot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/bigfoot.webp"
   },
   {
-    "id": 20,
     "name": "Loch Ness Monster",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/loch-ness-monster.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/loch-ness-monster.webp"
   },
   {
-    "id": 21,
     "name": "Pazuzu",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/pazuzu.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/pazuzu.webp"
   },
   {
-    "id": 22,
     "name": "Walter Koenig",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/walter-koenig.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/walter-koenig.webp"
   },
   {
-    "id": 23,
     "name": "Walter Mondale's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/walter-mondale_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/walter-mondale_s-head.webp"
   },
   {
-    "id": 24,
     "name": "Mom",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mom.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/mom.webp"
   },
   {
-    "id": 25,
     "name": "Tom Cruise's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 26,
     "name": "Tim Allen's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 27,
     "name": "Stephen Hawking",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/stephen-hawking.webp"
+    "gender": "Male",
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/stephen-hawking.webp"
   },
   {
-    "id": 28,
     "name": "Sharon Stone's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 29,
     "name": "El chupanibre",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/el-chupanibre.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Mutant",
+    "image": "/static/img/mutant/el-chupanibre.webp"
   },
   {
-    "id": 30,
     "name": "Sarah Michelle Gellar's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 31,
     "name": "William Shatner's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/william-shatner_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/william-shatner_s-head.webp"
   },
   {
-    "id": 32,
     "name": "Robert Wagner's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/robert-wagner_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/robert-wagner_s-head.webp"
   },
   {
-    "id": 33,
     "name": "William Howard Taft's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/william-howard-taft_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/william-howard-taft_s-head.webp"
   },
   {
-    "id": 34,
     "name": "Ross Perot's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ross-perot_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/ross-perot_s-head.webp"
   },
   {
-    "id": 35,
     "name": "Warren G. Harding's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 36,
     "name": "Ronald Reagan's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ronald-reagan_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/ronald-reagan_s-head.webp"
   },
   {
-    "id": 37,
     "name": "Traci Lords' head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/traci-lords_-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/traci-lords_-head.webp"
   },
   {
-    "id": 38,
     "name": "Thomas Jefferson's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/thomas-jefferson_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/thomas-jefferson_s-head.webp"
   },
   {
-    "id": 39,
     "name": "Theodore Roosevelt's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/theodore-roosevelt_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/theodore-roosevelt_s-head.webp"
   },
   {
-    "id": 40,
     "name": "Sylvester Stalone's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 41,
     "name": "Rob Reiner's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/rob-reiner_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/rob-reiner_s-head.webp"
   },
   {
-    "id": 42,
     "name": "Snoop Dogg's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/snoop-dogg_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/snoop-dogg_s-head.webp"
   },
   {
-    "id": 43,
     "name": "Sergio Aragon\u00e9s' head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/sergio-aragon_s_-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/sergio-aragon_s_-head.webp"
   },
   {
-    "id": 44,
     "name": "Rich Little's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/rich-little_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/rich-little_s-head.webp"
   },
   {
-    "id": 45,
     "name": "Rebecca Romijn's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/rebecca-romijn_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/rebecca-romijn_s-head.webp"
   },
   {
-    "id": 46,
     "name": "Samuel Genital's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/samuel-genital_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/samuel-genital_s-head.webp"
   },
   {
-    "id": 47,
     "name": "Mimi Rogers' head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 48,
     "name": "Michael Dukakis' head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 49,
     "name": "Matt Groening's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/matt-groening_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/matt-groening_s-head.webp"
   },
   {
-    "id": 50,
     "name": "Martin Lawrence's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 51,
     "name": "Ron Popeil's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ron-popeil_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/ron-popeil_s-head.webp"
   },
   {
-    "id": 52,
     "name": "Lassie",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 53,
     "name": "Ron Jeremy's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ron-jeremy_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/ron-jeremy_s-head.webp"
   },
   {
-    "id": 54,
     "name": "Richard M. Nixon's head",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/richard-m_-nixon_s-head.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/richard-m_-nixon_s-head.webp"
   },
   {
-    "id": 55,
     "name": "Lyndon LaRouche's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 56,
     "name": "Penn Jillette's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/penn-jillette_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/penn-jillette_s-head.webp"
   },
   {
-    "id": 57,
     "name": "Pamela Anderson's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/pamela-anderson_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/pamela-anderson_s-head.webp"
   },
   {
-    "id": 58,
     "name": "Orson Welles' head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/orson-welles_-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/orson-welles_-head.webp"
   },
   {
-    "id": 59,
     "name": "Nicole Kidman's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 60,
     "name": "Lucille Ball's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 61,
     "name": "Napoleon's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 62,
     "name": "Laetitia Casta's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/laetitia-casta_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/laetitia-casta_s-head.webp"
   },
   {
-    "id": 63,
     "name": "Martin Van Buren's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/martin-van-buren_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/martin-van-buren_s-head.webp"
   },
   {
-    "id": 64,
     "name": "Jon Stewart's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 65,
     "name": "John Turturro's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 66,
     "name": "Martha Stewart's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/martha-stewart_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/martha-stewart_s-head.webp"
   },
   {
-    "id": 67,
     "name": "Jay Leno's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 68,
     "name": "Jerry Seinfeld's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 69,
     "name": "Lucy Liu's head",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/lucy-liu_s-head.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/lucy-liu_s-head.webp"
   },
   {
-    "id": 70,
     "name": "Jacques Cousteau's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 71,
     "name": "Jack Nicholson's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 72,
     "name": "Leonardo DiCaprio's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/leonardo-dicaprio_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/leonardo-dicaprio_s-head.webp"
   },
   {
-    "id": 73,
     "name": "Long Dong Silver's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/long-dong-silver_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/long-dong-silver_s-head.webp"
   },
   {
-    "id": 74,
     "name": "Leonard Nimoy's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/leonard-nimoy_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/leonard-nimoy_s-head.webp"
   },
   {
-    "id": 75,
     "name": "Jonathan Frakes' head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jonathan-frakes_-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/jonathan-frakes_-head.webp"
   },
   {
-    "id": 76,
     "name": "Kate Moss's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/kate-moss_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/kate-moss_s-head.webp"
   },
   {
-    "id": 77,
     "name": "Henry Kissinger's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/henry-kissinger_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/henry-kissinger_s-head.webp"
   },
   {
-    "id": 78,
     "name": "Heidi Klum's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/heidi-klum_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/heidi-klum_s-head.webp"
   },
   {
-    "id": 79,
     "name": "Gillian Anderson's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 80,
     "name": "Joan Rivers' head",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/joan-rivers_-head.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/joan-rivers_-head.webp"
   },
   {
-    "id": 81,
     "name": "Jimmy Carter's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jimmy-carter_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/jimmy-carter_s-head.webp"
   },
   {
-    "id": 82,
     "name": "Jill Big Breasts' head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jill-big-breasts_-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/jill-big-breasts_-head.webp"
   },
   {
-    "id": 83,
     "name": "George Takei",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/george-takei.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/george-takei.webp"
   },
   {
-    "id": 84,
     "name": "George Foreman's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/george-foreman_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/george-foreman_s-head.webp"
   },
   {
-    "id": 85,
     "name": "Eric Stoltz's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 86,
     "name": "Eric Cartman's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/eric-cartman_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/eric-cartman_s-head.webp"
   },
   {
-    "id": 87,
     "name": "Homer Simpson's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/homer-simpson_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/homer-simpson_s-head.webp"
   },
   {
-    "id": 88,
     "name": "Herbert Hoover's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/herbert-hoover_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/herbert-hoover_s-head.webp"
   },
   {
-    "id": 89,
     "name": "Dick Clark's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/dick-clark_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/dick-clark_s-head.webp"
   },
   {
-    "id": 90,
     "name": "Dick Cheney's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/dick-cheney_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/dick-cheney_s-head.webp"
   },
   {
-    "id": 91,
     "name": "Elizabeth Taylor's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/elizabeth-taylor_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/elizabeth-taylor_s-head.webp"
   },
   {
-    "id": 92,
     "name": "DeForest Kelley's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/deforest-kelley_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/deforest-kelley_s-head.webp"
   },
   {
-    "id": 93,
     "name": "Hank Aaron's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hank-aaron_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/hank-aaron_s-head.webp"
   },
   {
-    "id": 94,
     "name": "Harry S. Truman's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/harry-s_-truman_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/harry-s_-truman_s-head.webp"
   },
   {
-    "id": 95,
     "name": "Grover Cleveland's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/grover-cleveland_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/grover-cleveland_s-head.webp"
   },
   {
-    "id": 96,
     "name": "David X. Cohen's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/david-x_-cohen_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/david-x_-cohen_s-head.webp"
   },
   {
-    "id": 97,
     "name": "Clint Eastwood's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 98,
     "name": "Gerald Ford's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/gerald-ford_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/gerald-ford_s-head.webp"
   },
   {
-    "id": 99,
     "name": "Claudia Schiffer's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/claudia-schiffer_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/claudia-schiffer_s-head.webp"
   },
   {
-    "id": 100,
     "name": "George Washington's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/george-washington_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/george-washington_s-head.webp"
   },
   {
-    "id": 101,
     "name": "George H. W. Bush's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/george-h_-w_-bush_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/george-h_-w_-bush_s-head.webp"
   },
   {
-    "id": 102,
     "name": "Cindy Crawford's head",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/cindy-crawford_s-head.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/cindy-crawford_s-head.webp"
   },
   {
-    "id": 103,
     "name": "Checkers' head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HEAD",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/head/checkers_-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Head",
+    "image": "/static/img/head/checkers_-head.webp"
   },
   {
-    "id": 104,
     "name": "Chester Z. Arthur",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/chester-z_-arthur.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/chester-z_-arthur.webp"
   },
   {
-    "id": 105,
     "name": "Charlie Chaplin's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 106,
     "name": "Elvis Presley's head",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/elvis-presley_s-head.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/elvis-presley_s-head.webp"
   },
   {
-    "id": 107,
     "name": "David Duchovny's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/david-duchovny_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/david-duchovny_s-head.webp"
   },
   {
-    "id": 108,
     "name": "Conan O'Brien's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/conan-o_brien_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/conan-o_brien_s-head.webp"
   },
   {
-    "id": 109,
     "name": "Apu Nahasapeemapetilon's head",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 110,
     "name": "Chester A. Arthur's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/chester-a_-arthur_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/chester-a_-arthur_s-head.webp"
   },
   {
-    "id": 111,
     "name": "Bob Uecker's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/bob-uecker_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/bob-uecker_s-head.webp"
   },
   {
-    "id": 112,
     "name": "Charles de Gaulle's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/charles-de-gaulle_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/charles-de-gaulle_s-head.webp"
   },
   {
-    "id": 113,
     "name": "Bob Dole's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/bob-dole_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/bob-dole_s-head.webp"
   },
   {
-    "id": 114,
     "name": "Bob Barker's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/bob-barker_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/bob-barker_s-head.webp"
   },
   {
-    "id": 115,
     "name": "Billy Crystal's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/billy-crystal_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/billy-crystal_s-head.webp"
   },
   {
-    "id": 116,
     "name": "Bill Clinton's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/bill-clinton_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/bill-clinton_s-head.webp"
   },
   {
-    "id": 117,
     "name": "Adam West",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/adam-west.webp"
+    "gender": "Male",
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/adam-west.webp"
   },
   {
-    "id": 118,
     "name": "Benjamin Harrison's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/benjamin-harrison_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/benjamin-harrison_s-head.webp"
   },
   {
-    "id": 119,
     "name": "Benjamin Franklin's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
     "image": null
   },
   {
-    "id": 120,
     "name": "Beck's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/beck_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/beck_s-head.webp"
   },
   {
-    "id": 121,
     "name": "Liubot",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/liubot.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/liubot.webp"
   },
   {
-    "id": 122,
     "name": "Army of the Damned",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/army-of-the-damned.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/army-of-the-damned.webp"
   },
   {
-    "id": 123,
     "name": "Beastie Boys' heads",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/beastie-boys_-heads.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/beastie-boys_-heads.webp"
   },
   {
-    "id": 124,
     "name": "Hermes bot",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/hermes-bot.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/hermes-bot.webp"
   },
   {
-    "id": 125,
     "name": "Antonin Scalia's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/antonin-scalia_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/antonin-scalia_s-head.webp"
   },
   {
-    "id": 126,
     "name": "Andrew Jackson's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/andrew-jackson_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/andrew-jackson_s-head.webp"
   },
   {
-    "id": 127,
     "name": "Bender duplicates",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/bender-duplicates.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/bender-duplicates.webp"
   },
   {
-    "id": 128,
     "name": "Hooker bots",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 129,
     "name": "Kill bots",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 130,
     "name": "Vladimir",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/vladimir.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/vladimir.webp"
   },
   {
-    "id": 131,
     "name": "URL",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/url.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/url.webp"
   },
   {
-    "id": 132,
     "name": "Robot 1x",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/robot-1x.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/robot-1x.webp"
   },
   {
-    "id": 133,
     "name": "Suspendington",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/suspendington.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/suspendington.webp"
   },
   {
-    "id": 134,
     "name": "Al Gore's head",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/al-gore_s-head.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/al-gore_s-head.webp"
   },
   {
-    "id": 135,
     "name": "Smiley Smith",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 136,
     "name": "Sergeant Feces Processor",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/sergeant-feces-processor.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/sergeant-feces-processor.webp"
   },
   {
-    "id": 137,
     "name": "Roberto V2.0",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/roberto-v2_0.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/roberto-v2_0.webp"
   },
   {
-    "id": 138,
     "name": "Sinclair 2K",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/sinclair-2k.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/sinclair-2k.webp"
   },
   {
-    "id": 139,
     "name": "Abraham Lincoln's head",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/abraham-lincoln_s-head.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/abraham-lincoln_s-head.webp"
   },
   {
-    "id": 140,
     "name": "Planet Express ship",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HEAD",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/head/planet-express-ship.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Head",
+    "image": "/static/img/head/planet-express-ship.webp"
   },
   {
-    "id": 141,
     "name": "Robot fox",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/robot-fox.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/robot-fox.webp"
   },
   {
-    "id": 142,
     "name": "Roberto",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/roberto.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/roberto.webp"
   },
   {
-    "id": 143,
     "name": "Robot Santa Claus",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/robot-santa-claus.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/robot-santa-claus.webp"
   },
   {
-    "id": 144,
     "name": "Professor Bot",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/professor-bot.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/professor-bot.webp"
   },
   {
-    "id": 145,
     "name": "Rectal Exam-bot",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 146,
     "name": "Parts Hilton",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/parts-hilton.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/parts-hilton.webp"
   },
   {
-    "id": 147,
     "name": "Nurse Ratchet",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/nurse-ratchet.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/nurse-ratchet.webp"
   },
   {
-    "id": 148,
     "name": "Oily",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/oily.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/oily.webp"
   },
   {
-    "id": 149,
     "name": "Paco",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/paco.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/paco.webp"
   },
   {
-    "id": 150,
     "name": "Monique",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/monique.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/monique.webp"
   },
   {
-    "id": 151,
     "name": "Malfunctioning Eddie",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/malfunctioning-eddie.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/malfunctioning-eddie.webp"
   },
   {
-    "id": 152,
     "name": "Mad Hatter Robot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/mad-hatter-robot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/mad-hatter-robot.webp"
   },
   {
-    "id": 153,
     "name": "Macaulay Culckon",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/macaulay-culckon.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/macaulay-culckon.webp"
   },
   {
-    "id": 154,
     "name": "Tiny Tim",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/tiny-tim.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/tiny-tim.webp"
   },
   {
-    "id": 155,
     "name": "Lulubelle 7",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/lulubelle-7.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/lulubelle-7.webp"
   },
   {
-    "id": 156,
     "name": "Leelabot",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/leelabot.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/leelabot.webp"
   },
   {
-    "id": 157,
     "name": "Lisa",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/lisa.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/lisa.webp"
   },
   {
-    "id": 158,
     "name": "Kwanzaabot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/kwanzaabot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/kwanzaabot.webp"
   },
   {
-    "id": 159,
     "name": "Master of the Hunt",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/master-of-the-hunt.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/master-of-the-hunt.webp"
   },
   {
-    "id": 160,
     "name": "Judge 802",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/judge-802.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/judge-802.webp"
   },
   {
-    "id": 161,
     "name": "Judge 724",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/judge-724.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/judge-724.webp"
   },
   {
-    "id": 162,
     "name": "Judge 723",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/judge-723.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/judge-723.webp"
   },
   {
-    "id": 163,
     "name": "Robot Devil",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/robot-devil.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/robot-devil.webp"
   },
   {
-    "id": 164,
     "name": "The Robot Elders",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/the-robot-elders.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/the-robot-elders.webp"
   },
   {
-    "id": 165,
     "name": "Preacherbot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/preacherbot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/preacherbot.webp"
   },
   {
-    "id": 166,
     "name": "Joey Mousepad",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/joey-mousepad.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/joey-mousepad.webp"
   },
   {
-    "id": 167,
     "name": "Jezabel",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/jezabel.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/jezabel.webp"
   },
   {
-    "id": 168,
     "name": "John Quincy Adding Machine",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/john-quincy-adding-machine.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/john-quincy-adding-machine.webp"
   },
   {
-    "id": 169,
     "name": "IZac",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/izac.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/izac.webp"
   },
   {
-    "id": 170,
     "name": "IHawk",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/ihawk.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/ihawk.webp"
   },
   {
-    "id": 171,
     "name": "Humorbot 5.0",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/humorbot-5_0.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/humorbot-5_0.webp"
   },
   {
-    "id": 172,
     "name": "Hedonismbot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/hedonismbot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/hedonismbot.webp"
   },
   {
-    "id": 173,
     "name": "Hair Robot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/hair-robot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/hair-robot.webp"
   },
   {
-    "id": 174,
     "name": "Gearshift",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/gearshift.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/gearshift.webp"
   },
   {
-    "id": 175,
     "name": "Frybot",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/frybot.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/frybot.webp"
   },
   {
-    "id": 176,
     "name": "Frankie",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/frankie.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/frankie.webp"
   },
   {
-    "id": 177,
     "name": "Francis X. Clampazzo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/francis-x_-clampazzo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/francis-x_-clampazzo.webp"
   },
   {
-    "id": 178,
     "name": "Foreigner",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/foreigner.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/foreigner.webp"
   },
   {
-    "id": 179,
     "name": "Flexo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/flexo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/flexo.webp"
   },
   {
-    "id": 180,
     "name": "Fender",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/fender.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/fender.webp"
   },
   {
-    "id": 181,
     "name": "Fatbot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/fatbot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/fatbot.webp"
   },
   {
-    "id": 182,
     "name": "Farmer Bot",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/farmer-bot.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/farmer-bot.webp"
   },
   {
-    "id": 183,
     "name": "Fanny",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/fanny.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/fanny.webp"
   },
   {
-    "id": 184,
     "name": "Fan",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/fan.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/fan.webp"
   },
   {
-    "id": 185,
     "name": "Fabricio",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/fabricio.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/fabricio.webp"
   },
   {
-    "id": 186,
     "name": "Emotitron, Jr.",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/emotitron_-jr_.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/emotitron_-jr_.webp"
   },
   {
-    "id": 187,
     "name": "Femputer",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/femputer.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/femputer.webp"
   },
   {
-    "id": 188,
     "name": "Dr. Perceptron",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/dr_-perceptron.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/dr_-perceptron.webp"
   },
   {
-    "id": 189,
     "name": "Doug",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/doug.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/doug.webp"
   },
   {
-    "id": 190,
     "name": "Donbot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/donbot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/donbot.webp"
   },
   {
-    "id": 191,
     "name": "Destructor",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/destructor.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/destructor.webp"
   },
   {
-    "id": 192,
     "name": "Daisy-Mae 128K",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/daisy-mae-128k.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/daisy-mae-128k.webp"
   },
   {
-    "id": 193,
     "name": "Cymbal-Banging Monkey",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/cymbal-banging-monkey.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/cymbal-banging-monkey.webp"
   },
   {
-    "id": 194,
     "name": "Gorgeous Gonks",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/gorgeous-gonks.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/gorgeous-gonks.webp"
   },
   {
-    "id": 195,
     "name": "Enemabot",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/enemabot.webp"
+    "gender": null,
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/enemabot.webp"
   },
   {
-    "id": 196,
     "name": "Pickles",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/pickles.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/pickles.webp"
   },
   {
-    "id": 197,
     "name": "Gammabot",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/gammabot.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/gammabot.webp"
   },
   {
-    "id": 198,
     "name": "Unit 2013",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/unit-2013.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/unit-2013.webp"
   },
   {
-    "id": 199,
     "name": "Keg Robot",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/keg-robot.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/keg-robot.webp"
   },
   {
-    "id": 200,
     "name": "Crushinator",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/crushinator.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/crushinator.webp"
   },
   {
-    "id": 201,
     "name": "Countess de la Roca",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/countess-de-la-roca.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/countess-de-la-roca.webp"
   },
   {
-    "id": 202,
     "name": "Comrade Greeting Card",
-    "gender": "UNKNOWN",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/comrade-greeting-card.webp"
+    "gender": null,
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/comrade-greeting-card.webp"
   },
   {
-    "id": 203,
     "name": "Chain Smoker",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/chain-smoker.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/chain-smoker.webp"
   },
   {
-    "id": 204,
     "name": "Charlotte Widnar",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/charlotte-widnar.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/charlotte-widnar.webp"
   },
   {
-    "id": 205,
     "name": "Cartridge Unit",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/cartridge-unit.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/cartridge-unit.webp"
   },
   {
-    "id": 206,
     "name": "Calculon",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/calculon.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/calculon.webp"
   },
   {
-    "id": 207,
     "name": "Boxy",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/boxy.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/boxy.webp"
   },
   {
-    "id": 208,
     "name": "Billy West (character)",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/billy-west-_character_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/billy-west-_character_.webp"
   },
   {
-    "id": 209,
     "name": "Billionairebot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/billionairebot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/billionairebot.webp"
   },
   {
-    "id": 210,
     "name": "Emperor Nikolai",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/emperor-nikolai.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/emperor-nikolai.webp"
   },
   {
-    "id": 211,
     "name": "Big Caboose",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/big-caboose.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/big-caboose.webp"
   },
   {
-    "id": 212,
     "name": "Ben Rodr\u00edguez",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/ben-rodr_guez.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/ben-rodr_guez.webp"
   },
   {
-    "id": 213,
     "name": "Bev",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/bev.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/bev.webp"
   },
   {
-    "id": 214,
     "name": "Antonio Calculon, Jr.",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/antonio-calculon_-jr_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/antonio-calculon_-jr_.webp"
   },
   {
-    "id": 215,
     "name": "Bella",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/bella.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/bella.webp"
   },
   {
-    "id": 216,
     "name": "Basil",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/basil.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/basil.webp"
   },
   {
-    "id": 217,
     "name": "Animatronio",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/animatronio.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/animatronio.webp"
   },
   {
-    "id": 218,
     "name": "Angleyne",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/angleyne.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/angleyne.webp"
   },
   {
-    "id": 219,
     "name": "Andrew",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/andrew.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/andrew.webp"
   },
   {
-    "id": 220,
     "name": "Mecha Hermes",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/mecha-hermes.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/mecha-hermes.webp"
   },
   {
-    "id": 221,
     "name": "Abraham Lincolnbot",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/abraham-lincolnbot.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/abraham-lincolnbot.webp"
   },
   {
-    "id": 222,
     "name": "Ab-Bot",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/ab-bot.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/ab-bot.webp"
   },
   {
-    "id": 223,
     "name": "7\u00b9\u00b9 robot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/7__-robot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/7__-robot.webp"
   },
   {
-    "id": 224,
     "name": "The Clearcutter",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/the-clearcutter.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Robot",
+    "image": "/static/img/robot/the-clearcutter.webp"
   },
   {
-    "id": 225,
     "name": "147573952589676412927",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/147573952589676412927.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/147573952589676412927.webp"
   },
   {
-    "id": 226,
     "name": "Vyolet",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/vyolet.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/vyolet.webp"
   },
   {
-    "id": 227,
     "name": "Virginia",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/virginia.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Mutant",
+    "image": "/static/img/mutant/virginia.webp"
   },
   {
-    "id": 228,
     "name": "Betabot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/betabot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/betabot.webp"
   },
   {
-    "id": 229,
     "name": "Umbriel",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/umbriel.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/umbriel.webp"
   },
   {
-    "id": 230,
     "name": "Turanga Munda",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/turanga-munda.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/turanga-munda.webp"
   },
   {
-    "id": 231,
     "name": "Turanga Morris",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/turanga-morris.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/turanga-morris.webp"
   },
   {
-    "id": 232,
     "name": "Thorias",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/thorias.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/thorias.webp"
   },
   {
-    "id": 233,
     "name": "Bender Bending Rodr\u00edguez's first born son",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/bender-bending-rodr_guez_s-first-born-son.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/bender-bending-rodr_guez_s-first-born-son.webp"
   },
   {
-    "id": 234,
     "name": "Mandy",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/mandy.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/mandy.webp"
   },
   {
-    "id": 235,
     "name": "Mouth Mutant",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/mouth-mutant.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/mouth-mutant.webp"
   },
   {
-    "id": 236,
     "name": "Moose",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/moose.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/moose.webp"
   },
   {
-    "id": 237,
     "name": "Lazar",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/lazar.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/lazar.webp"
   },
   {
-    "id": 238,
     "name": "Grotrian",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/grotrian.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/grotrian.webp"
   },
   {
-    "id": 239,
     "name": "Fly Mutant",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/fly-mutant.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Mutant",
+    "image": "/static/img/mutant/fly-mutant.webp"
   },
   {
-    "id": 240,
     "name": "Alphabot",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/alphabot.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Robot",
+    "image": "/static/img/robot/alphabot.webp"
   },
   {
-    "id": 241,
     "name": "Colonel (mutant)",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/colonel-_mutant_.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/colonel-_mutant_.webp"
   },
   {
-    "id": 242,
     "name": "Dwayne",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/dwayne.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/dwayne.webp"
   },
   {
-    "id": 243,
     "name": "Mr. Astor",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mr_-astor.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/mr_-astor.webp"
   },
   {
-    "id": 244,
     "name": "Armo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/armo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/armo.webp"
   },
   {
-    "id": 245,
     "name": "Colonel (merman)",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/colonel-_merman_.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/colonel-_merman_.webp"
   },
   {
-    "id": 246,
     "name": "Arachneon",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/arachneon.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Mutant",
+    "image": "/static/img/mutant/arachneon.webp"
   },
   {
-    "id": 247,
     "name": "Zoidfarb",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/zoidfarb.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/zoidfarb.webp"
   },
   {
-    "id": 248,
     "name": "Munda's mother",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/munda_s-mother.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/munda_s-mother.webp"
   },
   {
-    "id": 249,
     "name": "Munda's grandmother",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/munda_s-grandmother.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Mutant",
+    "image": "/static/img/mutant/munda_s-grandmother.webp"
   },
   {
-    "id": 250,
     "name": "Female Zoidberg",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/female-zoidberg.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/female-zoidberg.webp"
   },
   {
-    "id": 251,
     "name": "Yivo",
-    "gender": "UNKNOWN",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/yivo.webp"
+    "gender": null,
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/yivo.webp"
   },
   {
-    "id": 252,
     "name": "Andy Goldman",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/andy-goldman.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Mutant",
+    "image": "/static/img/mutant/andy-goldman.webp"
   },
   {
-    "id": 253,
     "name": "Thog",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/thog.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/thog.webp"
   },
   {
-    "id": 254,
     "name": "Tarquin",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/tarquin.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/tarquin.webp"
   },
   {
-    "id": 255,
     "name": "Raoul",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/raoul.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/raoul.webp"
   },
   {
-    "id": 256,
     "name": "Singing Wind",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/singing-wind.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/singing-wind.webp"
   },
   {
-    "id": 257,
     "name": "Slurm Queen",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/slurm-queen.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/slurm-queen.webp"
   },
   {
-    "id": 258,
     "name": "Space Pope",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/space-pope.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/space-pope.webp"
   },
   {
-    "id": 259,
     "name": "Slurms MacKenzie",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/slurms-mackenzie.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/slurms-mackenzie.webp"
   },
   {
-    "id": 260,
     "name": "Silicon Red",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 261,
     "name": "Sandy",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/sandy.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/sandy.webp"
   },
   {
-    "id": 262,
     "name": "Sam Zoidberg",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/sam-zoidberg.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/sam-zoidberg.webp"
   },
   {
-    "id": 263,
     "name": "Princess Num Num",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/princess-num-num.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/princess-num-num.webp"
   },
   {
-    "id": 264,
     "name": "Ornik",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/ornik.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/ornik.webp"
   },
   {
-    "id": 265,
     "name": "Norman Zoidberg",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/norman-zoidberg.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/norman-zoidberg.webp"
   },
   {
-    "id": 266,
     "name": "Norm Zoidberg",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/norm-zoidberg.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/norm-zoidberg.webp"
   },
   {
-    "id": 267,
     "name": "Neutral President",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/neutral-president.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/neutral-president.webp"
   },
   {
-    "id": 268,
     "name": "Ndnd",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/ndnd.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/ndnd.webp"
   },
   {
-    "id": 269,
     "name": "Mr. and Mrs. Kroker",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/mr_-and-mrs_-kroker.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/mr_-and-mrs_-kroker.webp"
   },
   {
-    "id": 270,
     "name": "Moivin",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/moivin.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/moivin.webp"
   },
   {
-    "id": 271,
     "name": "Morbo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/morbo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/morbo.webp"
   },
   {
-    "id": 272,
     "name": "Mr. Peppy",
-    "gender": "UNKNOWN",
-    "status": "ALIVE",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/mr_-peppy.webp"
+    "gender": null,
+    "status": "Alive",
+    "species": "Monster",
+    "image": "/static/img/monster/mr_-peppy.webp"
   },
   {
-    "id": 273,
     "name": "Melllvar",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/melllvar.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/melllvar.webp"
   },
   {
-    "id": 274,
     "name": "Malachi, Jr.",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/malachi_-jr_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/malachi_-jr_.webp"
   },
   {
-    "id": 275,
     "name": "Malachi, Sr.",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/malachi_-sr_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/malachi_-sr_.webp"
   },
   {
-    "id": 276,
     "name": "Leonardo da Vinci",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/leonardo-da-vinci.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/leonardo-da-vinci.webp"
   },
   {
-    "id": 277,
     "name": "Lrrr",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/lrrr.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/lrrr.webp"
   },
   {
-    "id": 278,
     "name": "Lord Nibbler",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/lord-nibbler.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/lord-nibbler.webp"
   },
   {
-    "id": 279,
     "name": "Kif Kroker",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/kif-kroker.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/kif-kroker.webp"
   },
   {
-    "id": 280,
     "name": "Ladybuggle",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/ladybuggle.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/ladybuggle.webp"
   },
   {
-    "id": 281,
     "name": "Langdon Cobb",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/langdon-cobb.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/langdon-cobb.webp"
   },
   {
-    "id": 282,
     "name": "Jrrr",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/jrrr.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/jrrr.webp"
   },
   {
-    "id": 283,
     "name": "Hobsy",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/hobsy.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/hobsy.webp"
   },
   {
-    "id": 284,
     "name": "Kug",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/kug.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/kug.webp"
   },
   {
-    "id": 285,
     "name": "H. G. Blob",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/h_-g_-blob.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/h_-g_-blob.webp"
   },
   {
-    "id": 286,
     "name": "Mystic aldermen of the Sun",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/mystic-aldermen-of-the-sun.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/mystic-aldermen-of-the-sun.webp"
   },
   {
-    "id": 287,
     "name": "Melllvar's Mother",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/melllvar_s-mother.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/melllvar_s-mother.webp"
   },
   {
-    "id": 288,
     "name": "Grand Midwife",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/grand-midwife.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/grand-midwife.webp"
   },
   {
-    "id": 289,
     "name": "Rock Alien",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/rock-alien.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/rock-alien.webp"
   },
   {
-    "id": 290,
     "name": "Harold Zoid",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/harold-zoid.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/harold-zoid.webp"
   },
   {
-    "id": 291,
     "name": "Glurmo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/glurmo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/glurmo.webp"
   },
   {
-    "id": 292,
     "name": "Fnog",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/fnog.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/fnog.webp"
   },
   {
-    "id": 293,
     "name": "Garglie",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/garglie.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/garglie.webp"
   },
   {
-    "id": 294,
     "name": "Flamo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/flamo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/flamo.webp"
   },
   {
-    "id": 295,
     "name": "Fawn",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/fawn.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/fawn.webp"
   },
   {
-    "id": 296,
     "name": "Malachi, Sr.'s wife",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/malachi_-sr__s-wife.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Alien",
+    "image": "/static/img/alien/malachi_-sr__s-wife.webp"
   },
   {
-    "id": 297,
     "name": "Feffernoose",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/feffernoose.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/feffernoose.webp"
   },
   {
-    "id": 298,
     "name": "Elzar",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/elzar.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/elzar.webp"
   },
   {
-    "id": 299,
     "name": "Edna",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/edna.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/edna.webp"
   },
   {
-    "id": 300,
     "name": "Drrr",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/drrr.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/drrr.webp"
   },
   {
-    "id": 301,
     "name": "Doingg",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/doingg.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/doingg.webp"
   },
   {
-    "id": 302,
     "name": "Brett Blob",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/brett-blob.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/brett-blob.webp"
   },
   {
-    "id": 303,
     "name": "Borax Kid",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/borax-kid.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/borax-kid.webp"
   },
   {
-    "id": 304,
     "name": "Admiral Chu",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/admiral-chu.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/admiral-chu.webp"
   },
   {
-    "id": 305,
     "name": "Zapp Brannigan",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/zapp-brannigan.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/zapp-brannigan.webp"
   },
   {
-    "id": 306,
     "name": "Yuri",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/yuri.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/yuri.webp"
   },
   {
-    "id": 307,
     "name": "Alcazar",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/alcazar.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Alien",
+    "image": "/static/img/alien/alcazar.webp"
   },
   {
-    "id": 308,
     "name": "Grunka-Lunkas",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/grunka-lunkas.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/grunka-lunkas.webp"
   },
   {
-    "id": 309,
     "name": "Biff",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/biff.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/biff.webp"
   },
   {
-    "id": 310,
     "name": "You There",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/you-there.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/you-there.webp"
   },
   {
-    "id": 311,
     "name": "Yancy Fry, Sr.",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/yancy-fry_-sr_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/yancy-fry_-sr_.webp"
   },
   {
-    "id": 312,
     "name": "Vernon",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/vernon.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/vernon.webp"
   },
   {
-    "id": 313,
     "name": "Walt",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/walt.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/walt.webp"
   },
   {
-    "id": 314,
     "name": "Velma Farnsworth",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/velma-farnsworth.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/velma-farnsworth.webp"
   },
   {
-    "id": 315,
     "name": "Yancy Fry",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/yancy-fry.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/yancy-fry.webp"
   },
   {
-    "id": 316,
     "name": "Vogel",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/vogel.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/vogel.webp"
   },
   {
-    "id": 317,
     "name": "Sheriff Furley",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 318,
     "name": "\"Tex\" Connecticut",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/tex_-connecticut.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/tex_-connecticut.webp"
   },
   {
-    "id": 319,
     "name": "Giant Unattractive Monster",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "MONSTER",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/monster/giant-unattractive-monster.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Monster",
+    "image": "/static/img/monster/giant-unattractive-monster.webp"
   },
   {
-    "id": 320,
     "name": "Scruffy Scruffington",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/scruffy-scruffington.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/scruffy-scruffington.webp"
   },
   {
-    "id": 321,
     "name": "Sam",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/sam.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/sam.webp"
   },
   {
-    "id": 322,
     "name": "Sean",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/sean.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/sean.webp"
   },
   {
-    "id": 323,
     "name": "Sally",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "MUTANT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/mutant/sally.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Mutant",
+    "image": "/static/img/mutant/sally.webp"
   },
   {
-    "id": 324,
     "name": "Randy Munchnik",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/randy-munchnik.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/randy-munchnik.webp"
   },
   {
-    "id": 325,
     "name": "Sal",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/sal.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/sal.webp"
   },
   {
-    "id": 326,
     "name": "Philip J. Fry II",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/philip-j_-fry-ii.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/philip-j_-fry-ii.webp"
   },
   {
-    "id": 327,
     "name": "Ogden Wernstrom",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ogden-wernstrom.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/ogden-wernstrom.webp"
   },
   {
-    "id": 328,
     "name": "Old Man Waterfall",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/old-man-waterfall.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/old-man-waterfall.webp"
   },
   {
-    "id": 329,
     "name": "Leroy",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/leroy.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/leroy.webp"
   },
   {
-    "id": 330,
     "name": "Lauren Cahill",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/lauren-cahill.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/lauren-cahill.webp"
   },
   {
-    "id": 331,
     "name": "Linda van Schoonhoven",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/linda-van-schoonhoven.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/linda-van-schoonhoven.webp"
   },
   {
-    "id": 332,
     "name": "Petunia",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/petunia.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/petunia.webp"
   },
   {
-    "id": 333,
     "name": "Lars Fillmore",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/lars-fillmore.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/lars-fillmore.webp"
   },
   {
-    "id": 334,
     "name": "Leo Wong",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/leo-wong.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/leo-wong.webp"
   },
   {
-    "id": 335,
     "name": "Larry",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/larry.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/larry.webp"
   },
   {
-    "id": 336,
     "name": "LaBarbara Conrad",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/labarbara-conrad.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/labarbara-conrad.webp"
   },
   {
-    "id": 337,
     "name": "John Jackson",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/john-jackson.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/john-jackson.webp"
   },
   {
-    "id": 338,
     "name": "Joe (Nation of Joe)",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/joe-_nation-of-joe_.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/joe-_nation-of-joe_.webp"
   },
   {
-    "id": 339,
     "name": "Kirk",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/kirk.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/kirk.webp"
   },
   {
-    "id": 340,
     "name": "Koji",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/koji.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/koji.webp"
   },
   {
-    "id": 341,
     "name": "Joe (defrostee)",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/joe-_defrostee_.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/joe-_defrostee_.webp"
   },
   {
-    "id": 342,
     "name": "Jim",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jim.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/jim.webp"
   },
   {
-    "id": 343,
     "name": "Jeremy",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jeremy.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/jeremy.webp"
   },
   {
-    "id": 344,
     "name": "\"Curly\" Joe",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/curly_-joe.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/curly_-joe.webp"
   },
   {
-    "id": 345,
     "name": "Jenny McNeal",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jenny-mcneal.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/jenny-mcneal.webp"
   },
   {
-    "id": 346,
     "name": "Jackie Anderson",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jackie-anderson.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/jackie-anderson.webp"
   },
   {
-    "id": 347,
     "name": "Ipji",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/ipji.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/ipji.webp"
   },
   {
-    "id": 348,
     "name": "Jack Johnson",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/jack-johnson.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/jack-johnson.webp"
   },
   {
-    "id": 349,
     "name": "J. J. Abrams",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/j_-j_-abrams.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/j_-j_-abrams.webp"
   },
   {
-    "id": 350,
     "name": "Inez Wong",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/inez-wong.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/inez-wong.webp"
   },
   {
-    "id": 351,
     "name": "Igner",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/igner.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/igner.webp"
   },
   {
-    "id": 352,
     "name": "Human friend",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/human-friend.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/human-friend.webp"
   },
   {
-    "id": 353,
     "name": "Human (character)",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "ROBOT",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/robot/human-_character_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Robot",
+    "image": "/static/img/robot/human-_character_.webp"
   },
   {
-    "id": 354,
     "name": "Helmut Spargle",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/helmut-spargle.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/helmut-spargle.webp"
   },
   {
-    "id": 355,
     "name": "Headless Body of Spiro Agnew",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/headless-body-of-spiro-agnew.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/headless-body-of-spiro-agnew.webp"
   },
   {
-    "id": 356,
     "name": "Hutch Waterfall",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hutch-waterfall.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/hutch-waterfall.webp"
   },
   {
-    "id": 357,
     "name": "Hattie McDoogal",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hattie-mcdoogal.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/hattie-mcdoogal.webp"
   },
   {
-    "id": 358,
     "name": "Head of the ACLU",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/head-of-the-aclu.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/head-of-the-aclu.webp"
   },
   {
-    "id": 359,
     "name": "Hank Aaron XXIV",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hank-aaron-xxiv.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/hank-aaron-xxiv.webp"
   },
   {
-    "id": 360,
     "name": "Hacking Jack",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hacking-jack.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/hacking-jack.webp"
   },
   {
-    "id": 361,
     "name": "Gus",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/gus.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/gus.webp"
   },
   {
-    "id": 362,
     "name": "Gary Gygax (character)",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/gary-gygax-_character_.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/gary-gygax-_character_.webp"
   },
   {
-    "id": 363,
     "name": "Frydo",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/frydo.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/frydo.webp"
   },
   {
-    "id": 364,
     "name": "Frida Waterfall",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/frida-waterfall.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/frida-waterfall.webp"
   },
   {
-    "id": 365,
     "name": "Gwen",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/gwen.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/gwen.webp"
   },
   {
-    "id": 366,
     "name": "Free Waterfall, Sr.",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/free-waterfall_-sr_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/free-waterfall_-sr_.webp"
   },
   {
-    "id": 367,
     "name": "Free Waterfall, Jr.",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/free-waterfall_-jr_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/free-waterfall_-jr_.webp"
   },
   {
-    "id": 368,
     "name": "Free Waterfall III",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/free-waterfall-iii.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/free-waterfall-iii.webp"
   },
   {
-    "id": 369,
     "name": "Floyd Farnsworth",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/floyd-farnsworth.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/floyd-farnsworth.webp"
   },
   {
-    "id": 370,
     "name": "Hermes Conrad's fan",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hermes-conrad_s-fan.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/hermes-conrad_s-fan.webp"
   },
   {
-    "id": 371,
     "name": "Human horn",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/human-horn.webp"
+    "gender": null,
+    "status": null,
+    "species": null,
+    "image": "/static/img/unknown/human-horn.webp"
   },
   {
-    "id": 372,
     "name": "Farmer",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/farmer.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/farmer.webp"
   },
   {
-    "id": 373,
     "name": "Fishy Joe",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/fishy-joe.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/fishy-joe.webp"
   },
   {
-    "id": 374,
     "name": "Hubert J. Farnsworth's girlfriend",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hubert-j_-farnsworth_s-girlfriend.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/hubert-j_-farnsworth_s-girlfriend.webp"
   },
   {
-    "id": 375,
     "name": "Enos Fry",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/enos-fry.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/enos-fry.webp"
   },
   {
-    "id": 376,
     "name": "Ethan \"Bubblegum\" Tate",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/ethan-_bubblegum_-tate.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/ethan-_bubblegum_-tate.webp"
   },
   {
-    "id": 377,
     "name": "Elizabeth Bennet",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/elizabeth-bennet.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/elizabeth-bennet.webp"
   },
   {
-    "id": 378,
     "name": "Dwight Conrad",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/dwight-conrad.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/dwight-conrad.webp"
   },
   {
-    "id": 379,
     "name": "Dr. Schlovinowitz",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/dr_-schlovinowitz.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/dr_-schlovinowitz.webp"
   },
   {
-    "id": 380,
     "name": "David Farnsworth",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/david-farnsworth.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/david-farnsworth.webp"
   },
   {
-    "id": 381,
     "name": "Dandy Jim",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/dandy-jim.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/dandy-jim.webp"
   },
   {
-    "id": 382,
     "name": "Cubert J. Farnsworth",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/cubert-j_-farnsworth.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/cubert-j_-farnsworth.webp"
   },
   {
-    "id": 383,
     "name": "Craterface",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/unknown/craterface.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": null,
+    "image": "/static/img/unknown/craterface.webp"
   },
   {
-    "id": 384,
     "name": "Mrs. Fry",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mrs_-fry.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/mrs_-fry.webp"
   },
   {
-    "id": 385,
     "name": "Darlene",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/darlene.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/darlene.webp"
   },
   {
-    "id": 386,
     "name": "Gary (season 2)",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/gary-_season-2_.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/gary-_season-2_.webp"
   },
   {
-    "id": 387,
     "name": "Crack addict",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/crack-addict.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/crack-addict.webp"
   },
   {
-    "id": 388,
     "name": "Crack mansion butler",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/crack-mansion-butler.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/crack-mansion-butler.webp"
   },
   {
-    "id": 389,
     "name": "Mrs. Conrad",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mrs_-conrad.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/mrs_-conrad.webp"
   },
   {
-    "id": 390,
     "name": "Mr. Conrad",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mr_-conrad.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/mr_-conrad.webp"
   },
   {
-    "id": 391,
     "name": "Chu",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/chu.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/chu.webp"
   },
   {
-    "id": 392,
     "name": "Chaz",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/chaz.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/chaz.webp"
   },
   {
-    "id": 393,
     "name": "Charles Constantine",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/charles-constantine.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/charles-constantine.webp"
   },
   {
-    "id": 394,
     "name": "Charles",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 395,
     "name": "Colleen O'Hallahan",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/colleen-o_hallahan.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/colleen-o_hallahan.webp"
   },
   {
-    "id": 396,
     "name": "Candy",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/candy.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/candy.webp"
   },
   {
-    "id": 397,
     "name": "C. Randall Poopenmeyer",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/c_-randall-poopenmeyer.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/c_-randall-poopenmeyer.webp"
   },
   {
-    "id": 398,
     "name": "Captain Musky",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/captain-musky.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/captain-musky.webp"
   },
   {
-    "id": 399,
     "name": "Buzz Aldrin (character)",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/buzz-aldrin-_character_.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/buzz-aldrin-_character_.webp"
   },
   {
-    "id": 400,
     "name": "Butch",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/butch.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/butch.webp"
   },
   {
-    "id": 401,
     "name": "Boobs Vanderbilt",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/boobs-vanderbilt.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/boobs-vanderbilt.webp"
   },
   {
-    "id": 402,
     "name": "Bill McNeal",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/bill-mcneal.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/bill-mcneal.webp"
   },
   {
-    "id": 403,
     "name": "Benny",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/benny.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/benny.webp"
   },
   {
-    "id": 404,
     "name": "Beth Jenkins",
-    "gender": "FEMALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/beth-jenkins.webp"
+    "gender": "Female",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/beth-jenkins.webp"
   },
   {
-    "id": 405,
     "name": "Dixie",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/dixie.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/dixie.webp"
   },
   {
-    "id": 406,
     "name": "Barbados Slim",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/barbados-slim.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/barbados-slim.webp"
   },
   {
-    "id": 407,
     "name": "Conspiracy nutter",
-    "gender": "MALE",
-    "status": "DEAD",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/conspiracy-nutter.webp"
+    "gender": "Male",
+    "status": "Dead",
+    "species": "Human",
+    "image": "/static/img/human/conspiracy-nutter.webp"
   },
   {
-    "id": 408,
     "name": "Barack Obama",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/barack-obama.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/barack-obama.webp"
   },
   {
-    "id": 409,
     "name": "Mrs. Astor",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/mrs_-astor.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/mrs_-astor.webp"
   },
   {
-    "id": 410,
     "name": "Angus MacZongo",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/angus-maczongo.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/angus-maczongo.webp"
   },
   {
-    "id": 411,
     "name": "Andy Warhol",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/andy-warhol.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/andy-warhol.webp"
   },
   {
-    "id": 412,
     "name": "John",
-    "gender": "UNKNOWN",
-    "status": "UNKNOWN",
-    "species": "UNKNOWN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
+    "gender": null,
+    "status": null,
+    "species": null,
     "image": null
   },
   {
-    "id": 413,
     "name": "Armando",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/armando.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/armando.webp"
   },
   {
-    "id": 414,
     "name": "Albert",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/albert.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/albert.webp"
   },
   {
-    "id": 415,
     "name": "Abner Doubledeal",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/abner-doubledeal.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/abner-doubledeal.webp"
   },
   {
-    "id": 416,
     "name": "Adlai Atkins",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/adlai-atkins.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/adlai-atkins.webp"
   },
   {
-    "id": 417,
     "name": "7\u00b9\u00b9 Clerk",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/7__-clerk.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/7__-clerk.webp"
   },
   {
-    "id": 418,
     "name": "21st Century Woman",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/21st-century-woman.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/21st-century-woman.webp"
   },
   {
-    "id": 419,
     "name": "Butch's mother",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/butch_s-mother.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/butch_s-mother.webp"
   },
   {
-    "id": 420,
     "name": "John A. Zoidberg",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "ALIEN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/alien/john-a_-zoidberg.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Alien",
+    "image": "/static/img/alien/john-a_-zoidberg.webp"
   },
   {
-    "id": 421,
     "name": "Hermes Conrad",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hermes-conrad.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/hermes-conrad.webp"
   },
   {
-    "id": 422,
     "name": "Butch's girlfriend",
-    "gender": "FEMALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/butch_s-girlfriend.webp"
+    "gender": "Female",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/butch_s-girlfriend.webp"
   },
   {
-    "id": 423,
     "name": "Amy Wong-Kroker",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/amy-wong-kroker.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/amy-wong-kroker.webp"
   },
   {
-    "id": 424,
     "name": "Hubert J. Farnsworth",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/hubert-j_-farnsworth.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/hubert-j_-farnsworth.webp"
   },
   {
-    "id": 425,
     "name": "Turanga Leela",
-    "gender": "FEMALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/turanga-leela.webp"
+    "gender": "Female",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/turanga-leela.webp"
   },
   {
-    "id": 426,
     "name": "'tude Guard",
-    "gender": "MALE",
-    "status": "ALIVE",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/tude-guard.webp"
+    "gender": "Male",
+    "status": "Alive",
+    "species": "Human",
+    "image": "/static/img/human/tude-guard.webp"
   },
   {
-    "id": 427,
     "name": "Australian man",
-    "gender": "MALE",
-    "status": "UNKNOWN",
-    "species": "HUMAN",
-    "createdAt": "2023-12-02T18:32:33.122015Z",
-    "image": "https://futuramaapi.com/static/img/human/australian-man.webp"
+    "gender": "Male",
+    "status": null,
+    "species": "Human",
+    "image": "/static/img/human/australian-man.webp"
   }
 ]

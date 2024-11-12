@@ -1,1052 +1,902 @@
 [
   {
-    "id": 1,
     "name": "Space Pilot 3000",
     "number": 1,
-    "productionCode": "1ACV01",
+    "production_code": "1ACV01",
     "season": 1
   },
   {
-    "id": 2,
     "name": "The Series Has Landed",
     "number": 2,
-    "productionCode": "1ACV02",
+    "production_code": "1ACV02",
     "season": 1
   },
   {
-    "id": 3,
     "name": "I, Roommate",
     "number": 3,
-    "productionCode": "1ACV03",
+    "production_code": "1ACV03",
     "season": 1
   },
   {
-    "id": 4,
     "name": "Love's Labours Lost in Space",
     "number": 4,
-    "productionCode": "1ACV04",
+    "production_code": "1ACV04",
     "season": 1
   },
   {
-    "id": 5,
     "name": "Fear of a Bot Planet",
     "number": 5,
-    "productionCode": "1ACV05",
+    "production_code": "1ACV05",
     "season": 1
   },
   {
-    "id": 6,
     "name": "A Fishful of Dollars",
     "number": 6,
-    "productionCode": "1ACV06",
+    "production_code": "1ACV06",
     "season": 1
   },
   {
-    "id": 7,
     "name": "My Three Suns",
     "number": 7,
-    "productionCode": "1ACV07",
+    "production_code": "1ACV07",
     "season": 1
   },
   {
-    "id": 8,
     "name": "A Big Piece of Garbage",
     "number": 8,
-    "productionCode": "1ACV08",
+    "production_code": "1ACV08",
     "season": 1
   },
   {
-    "id": 9,
     "name": "Hell Is Other Robots",
     "number": 9,
-    "productionCode": "1ACV09",
+    "production_code": "1ACV09",
     "season": 1
   },
   {
-    "id": 10,
     "name": "A Flight to Remember",
     "number": 1,
-    "productionCode": "1ACV10",
+    "production_code": "1ACV10",
     "season": 2
   },
   {
-    "id": 11,
     "name": "Mars University",
     "number": 2,
-    "productionCode": "1ACV11",
+    "production_code": "1ACV11",
     "season": 2
   },
   {
-    "id": 12,
     "name": "When Aliens Attack",
     "number": 3,
-    "productionCode": "1ACV12",
+    "production_code": "1ACV12",
     "season": 2
   },
   {
-    "id": 13,
     "name": "Fry and the Slurm Factory",
     "number": 4,
-    "productionCode": "1ACV13",
+    "production_code": "1ACV13",
     "season": 2
   },
   {
-    "id": 14,
     "name": "I Second that Emotion",
     "number": 5,
-    "productionCode": "2ACV01",
+    "production_code": "2ACV01",
     "season": 2
   },
   {
-    "id": 15,
     "name": "Brannigan, Begin Again",
     "number": 6,
-    "productionCode": "2ACV02",
+    "production_code": "2ACV02",
     "season": 2
   },
   {
-    "id": 16,
     "name": "A Head in the Polls",
     "number": 7,
-    "productionCode": "2ACV03",
+    "production_code": "2ACV03",
     "season": 2
   },
   {
-    "id": 17,
     "name": "Xmas Story",
     "number": 8,
-    "productionCode": "2ACV04",
+    "production_code": "2ACV04",
     "season": 2
   },
   {
-    "id": 18,
     "name": "Why Must I Be a Crustacean in Love?",
     "number": 9,
-    "productionCode": "2ACV05",
+    "production_code": "2ACV05",
     "season": 2
   },
   {
-    "id": 19,
     "name": "The Lesser of Two Evils",
     "number": 11,
-    "productionCode": "2ACV06",
+    "production_code": "2ACV06",
     "season": 2
   },
   {
-    "id": 20,
     "name": "Put Your Head on My Shoulders",
     "number": 10,
-    "productionCode": "2ACV07",
+    "production_code": "2ACV07",
     "season": 2
   },
   {
-    "id": 21,
     "name": "Raging Bender",
     "number": 12,
-    "productionCode": "2ACV08",
+    "production_code": "2ACV08",
     "season": 2
   },
   {
-    "id": 22,
     "name": "A Bicyclops Built for Two",
     "number": 13,
-    "productionCode": "2ACV09",
+    "production_code": "2ACV09",
     "season": 2
   },
   {
-    "id": 23,
     "name": "A Clone of My Own",
     "number": 15,
-    "productionCode": "2ACV10",
+    "production_code": "2ACV10",
     "season": 2
   },
   {
-    "id": 24,
     "name": "How Hermes Requisitioned His Groove Back",
     "number": 14,
-    "productionCode": "2ACV11",
+    "production_code": "2ACV11",
     "season": 2
   },
   {
-    "id": 25,
     "name": "The Deep South",
     "number": 16,
-    "productionCode": "2ACV12",
+    "production_code": "2ACV12",
     "season": 2
   },
   {
-    "id": 26,
     "name": "Bender Gets Made",
     "number": 17,
-    "productionCode": "2ACV13",
+    "production_code": "2ACV13",
     "season": 2
   },
   {
-    "id": 27,
     "name": "Mother's Day",
     "number": 19,
-    "productionCode": "2ACV14",
+    "production_code": "2ACV14",
     "season": 2
   },
   {
-    "id": 28,
     "name": "The Problem with Popplers",
     "number": 18,
-    "productionCode": "2ACV15",
+    "production_code": "2ACV15",
     "season": 2
   },
   {
-    "id": 29,
     "name": "Anthology of Interest I",
     "number": 20,
-    "productionCode": "2ACV16",
+    "production_code": "2ACV16",
     "season": 2
   },
   {
-    "id": 30,
     "name": "War Is the H-Word",
     "number": 2,
-    "productionCode": "2ACV17",
+    "production_code": "2ACV17",
     "season": 3
   },
   {
-    "id": 31,
     "name": "The Honking",
     "number": 1,
-    "productionCode": "2ACV18",
+    "production_code": "2ACV18",
     "season": 3
   },
   {
-    "id": 32,
     "name": "The Cryonic Woman",
     "number": 3,
-    "productionCode": "2ACV19",
+    "production_code": "2ACV19",
     "season": 3
   },
   {
-    "id": 33,
     "name": "Amazon Women in the Mood",
     "number": 5,
-    "productionCode": "3ACV01",
+    "production_code": "3ACV01",
     "season": 3
   },
   {
-    "id": 34,
     "name": "Parasites Lost",
     "number": 4,
-    "productionCode": "3ACV02",
+    "production_code": "3ACV02",
     "season": 3
   },
   {
-    "id": 36,
     "name": "The Luck of the Fryrish",
     "number": 10,
-    "productionCode": "3ACV04",
+    "production_code": "3ACV04",
     "season": 3
   },
   {
-    "id": 37,
     "name": "The Birdbot of Ice-Catraz",
     "number": 9,
-    "productionCode": "3ACV05",
+    "production_code": "3ACV05",
     "season": 3
   },
   {
-    "id": 38,
     "name": "Bendless Love",
     "number": 6,
-    "productionCode": "3ACV06",
+    "production_code": "3ACV06",
     "season": 3
   },
   {
-    "id": 39,
     "name": "The Day the Earth Stood Stupid",
     "number": 7,
-    "productionCode": "3ACV07",
+    "production_code": "3ACV07",
     "season": 3
   },
   {
-    "id": 40,
     "name": "That's Lobstertainment!",
     "number": 8,
-    "productionCode": "3ACV08",
+    "production_code": "3ACV08",
     "season": 3
   },
   {
-    "id": 41,
     "name": "The Cyber House Rules",
     "number": 11,
-    "productionCode": "3ACV09",
+    "production_code": "3ACV09",
     "season": 3
   },
   {
-    "id": 43,
     "name": "Insane in the Mainframe",
     "number": 12,
-    "productionCode": "3ACV11",
+    "production_code": "3ACV11",
     "season": 3
   },
   {
-    "id": 45,
     "name": "Bendin' in the Wind",
     "number": 13,
-    "productionCode": "3ACV13",
+    "production_code": "3ACV13",
     "season": 3
   },
   {
-    "id": 46,
     "name": "Time Keeps on Slippin'",
     "number": 14,
-    "productionCode": "3ACV14",
+    "production_code": "3ACV14",
     "season": 3
   },
   {
-    "id": 47,
     "name": "I Dated a Robot",
     "number": 15,
-    "productionCode": "3ACV15",
+    "production_code": "3ACV15",
     "season": 3
   },
   {
-    "id": 35,
     "name": "A Tale of Two Santas",
     "number": 2,
-    "productionCode": "3ACV03",
+    "production_code": "3ACV03",
     "season": 4
   },
   {
-    "id": 42,
     "name": "Where the Buggalo Roam",
     "number": 6,
-    "productionCode": "3ACV10",
+    "production_code": "3ACV10",
     "season": 4
   },
   {
-    "id": 48,
     "name": "A Leela of Her Own",
     "number": 10,
-    "productionCode": "3ACV16",
+    "production_code": "3ACV16",
     "season": 4
   },
   {
-    "id": 49,
     "name": "A Pharaoh to Remember",
     "number": 7,
-    "productionCode": "3ACV17",
+    "production_code": "3ACV17",
     "season": 4
   },
   {
-    "id": 50,
     "name": "Anthology of Interest II",
     "number": 3,
-    "productionCode": "3ACV18",
+    "production_code": "3ACV18",
     "season": 4
   },
   {
-    "id": 51,
     "name": "Roswell that Ends Well",
     "number": 1,
-    "productionCode": "3ACV19",
+    "production_code": "3ACV19",
     "season": 4
   },
   {
-    "id": 52,
     "name": "Godfellas",
     "number": 8,
-    "productionCode": "3ACV20",
+    "production_code": "3ACV20",
     "season": 4
   },
   {
-    "id": 53,
     "name": "Future Stock",
     "number": 9,
-    "productionCode": "3ACV21",
+    "production_code": "3ACV21",
     "season": 4
   },
   {
-    "id": 54,
     "name": "The 30% Iron Chef",
     "number": 11,
-    "productionCode": "3ACV22",
+    "production_code": "3ACV22",
     "season": 4
   },
   {
-    "id": 56,
     "name": "Leela's Homeworld",
     "number": 5,
-    "productionCode": "4ACV02",
+    "production_code": "4ACV02",
     "season": 4
   },
   {
-    "id": 57,
     "name": "Love and Rocket",
     "number": 4,
-    "productionCode": "4ACV03",
+    "production_code": "4ACV03",
     "season": 4
   },
   {
-    "id": 65,
     "name": "Where No Fan Has Gone Before",
     "number": 12,
-    "productionCode": "4ACV11",
+    "production_code": "4ACV11",
     "season": 4
   },
   {
-    "id": 44,
     "name": "The Route of All Evil",
     "number": 3,
-    "productionCode": "3ACV12",
+    "production_code": "3ACV12",
     "season": 5
   },
   {
-    "id": 55,
     "name": "Kif Gets Knocked Up a Notch",
     "number": 5,
-    "productionCode": "4ACV01",
+    "production_code": "4ACV01",
     "season": 5
   },
   {
-    "id": 58,
     "name": "Less than Hero",
     "number": 6,
-    "productionCode": "4ACV04",
+    "production_code": "4ACV04",
     "season": 5
   },
   {
-    "id": 59,
     "name": "A Taste of Freedom",
     "number": 4,
-    "productionCode": "4ACV05",
+    "production_code": "4ACV05",
     "season": 5
   },
   {
-    "id": 60,
     "name": "Bender Should Not Be Allowed on Television",
     "number": 15,
-    "productionCode": "4ACV06",
+    "production_code": "4ACV06",
     "season": 5
   },
   {
-    "id": 61,
     "name": "Jurassic Bark",
     "number": 2,
-    "productionCode": "4ACV07",
+    "production_code": "4ACV07",
     "season": 5
   },
   {
-    "id": 62,
     "name": "Crimes of the Hot",
     "number": 1,
-    "productionCode": "4ACV08",
+    "production_code": "4ACV08",
     "season": 5
   },
   {
-    "id": 63,
     "name": "Teenage Mutant Leela's Hurdles",
     "number": 7,
-    "productionCode": "4ACV09",
+    "production_code": "4ACV09",
     "season": 5
   },
   {
-    "id": 64,
     "name": "The Why of Fry",
     "number": 8,
-    "productionCode": "4ACV10",
+    "production_code": "4ACV10",
     "season": 5
   },
   {
-    "id": 66,
     "name": "The Sting",
     "number": 9,
-    "productionCode": "4ACV12",
+    "production_code": "4ACV12",
     "season": 5
   },
   {
-    "id": 67,
     "name": "Bend Her",
     "number": 13,
-    "productionCode": "4ACV13",
+    "production_code": "4ACV13",
     "season": 5
   },
   {
-    "id": 68,
     "name": "Obsoletely Fabulous",
     "number": 14,
-    "productionCode": "4ACV14",
+    "production_code": "4ACV14",
     "season": 5
   },
   {
-    "id": 69,
     "name": "The Farnsworth Parabox",
     "number": 10,
-    "productionCode": "4ACV15",
+    "production_code": "4ACV15",
     "season": 5
   },
   {
-    "id": 70,
     "name": "Three Hundred Big Boys",
     "number": 11,
-    "productionCode": "4ACV16",
+    "production_code": "4ACV16",
     "season": 5
   },
   {
-    "id": 71,
     "name": "Spanish Fry",
     "number": 12,
-    "productionCode": "4ACV17",
+    "production_code": "4ACV17",
     "season": 5
   },
   {
-    "id": 72,
     "name": "The Devil's Hands Are Idle Playthings",
     "number": 16,
-    "productionCode": "4ACV18",
+    "production_code": "4ACV18",
     "season": 5
   },
   {
-    "id": 73,
     "name": "Bender's Big Score Part 1",
     "number": 1,
-    "productionCode": "5ACV01",
+    "production_code": "5ACV01",
     "season": 6
   },
   {
-    "id": 74,
     "name": "Bender's Big Score Part 2",
     "number": 2,
-    "productionCode": "5ACV02",
+    "production_code": "5ACV02",
     "season": 6
   },
   {
-    "id": 75,
     "name": "Bender's Big Score Part 3",
     "number": 3,
-    "productionCode": "5ACV03",
+    "production_code": "5ACV03",
     "season": 6
   },
   {
-    "id": 76,
     "name": "Bender's Big Score Part 4",
     "number": 4,
-    "productionCode": "5ACV04",
+    "production_code": "5ACV04",
     "season": 6
   },
   {
-    "id": 77,
     "name": "The Beast with a Billion Backs Part 1",
     "number": 5,
-    "productionCode": "5ACV05",
+    "production_code": "5ACV05",
     "season": 6
   },
   {
-    "id": 78,
     "name": "The Beast with a Billion Backs Part 2",
     "number": 6,
-    "productionCode": "5ACV06",
+    "production_code": "5ACV06",
     "season": 6
   },
   {
-    "id": 79,
     "name": "The Beast with a Billion Backs Part 3",
     "number": 7,
-    "productionCode": "5ACV07",
+    "production_code": "5ACV07",
     "season": 6
   },
   {
-    "id": 80,
     "name": "The Beast with a Billion Backs Part 4",
     "number": 8,
-    "productionCode": "5ACV08",
+    "production_code": "5ACV08",
     "season": 6
   },
   {
-    "id": 81,
     "name": "Bender's Game Part 1",
     "number": 9,
-    "productionCode": "5ACV09",
+    "production_code": "5ACV09",
     "season": 6
   },
   {
-    "id": 82,
     "name": "Bender's Game Part 2",
     "number": 10,
-    "productionCode": "5ACV10",
+    "production_code": "5ACV10",
     "season": 6
   },
   {
-    "id": 83,
     "name": "Bender's Game Part 3",
     "number": 11,
-    "productionCode": "5ACV11",
+    "production_code": "5ACV11",
     "season": 6
   },
   {
-    "id": 84,
     "name": "Bender's Game Part 4",
     "number": 12,
-    "productionCode": "5ACV12",
+    "production_code": "5ACV12",
     "season": 6
   },
   {
-    "id": 85,
     "name": "Into the Wild Green Yonder Part 1",
     "number": 13,
-    "productionCode": "5ACV13",
+    "production_code": "5ACV13",
     "season": 6
   },
   {
-    "id": 86,
     "name": "Into the Wild Green Yonder Part 2",
     "number": 14,
-    "productionCode": "5ACV14",
+    "production_code": "5ACV14",
     "season": 6
   },
   {
-    "id": 87,
     "name": "Into the Wild Green Yonder Part 3",
     "number": 15,
-    "productionCode": "5ACV15",
+    "production_code": "5ACV15",
     "season": 6
   },
   {
-    "id": 88,
     "name": "Into the Wild Green Yonder Part 4",
     "number": 16,
-    "productionCode": "5ACV16",
+    "production_code": "5ACV16",
     "season": 6
   },
   {
-    "id": 89,
     "name": "Rebirth",
     "number": 1,
-    "productionCode": "6ACV01",
+    "production_code": "6ACV01",
     "season": 7
   },
   {
-    "id": 90,
     "name": "In-A-Gadda-Da-Leela",
     "number": 2,
-    "productionCode": "6ACV02",
+    "production_code": "6ACV02",
     "season": 7
   },
   {
-    "id": 91,
     "name": "Attack of the Killer App",
     "number": 3,
-    "productionCode": "6ACV03",
+    "production_code": "6ACV03",
     "season": 7
   },
   {
-    "id": 92,
     "name": "Proposition Infinity",
     "number": 4,
-    "productionCode": "6ACV04",
+    "production_code": "6ACV04",
     "season": 7
   },
   {
-    "id": 93,
     "name": "The Duh-Vinci Code",
     "number": 5,
-    "productionCode": "6ACV05",
+    "production_code": "6ACV05",
     "season": 7
   },
   {
-    "id": 94,
     "name": "Lethal Inspection",
     "number": 6,
-    "productionCode": "6ACV06",
+    "production_code": "6ACV06",
     "season": 7
   },
   {
-    "id": 95,
     "name": "The Late Philip J. Fry",
     "number": 7,
-    "productionCode": "6ACV07",
+    "production_code": "6ACV07",
     "season": 7
   },
   {
-    "id": 96,
     "name": "That Darn Katz!",
     "number": 8,
-    "productionCode": "6ACV08",
+    "production_code": "6ACV08",
     "season": 7
   },
   {
-    "id": 97,
     "name": "A Clockwork Origin",
     "number": 9,
-    "productionCode": "6ACV09",
+    "production_code": "6ACV09",
     "season": 7
   },
   {
-    "id": 98,
     "name": "The Prisoner of Benda",
     "number": 10,
-    "productionCode": "6ACV10",
+    "production_code": "6ACV10",
     "season": 7
   },
   {
-    "id": 99,
     "name": "Lrrreconcilable Ndndifferences",
     "number": 11,
-    "productionCode": "6ACV11",
+    "production_code": "6ACV11",
     "season": 7
   },
   {
-    "id": 100,
     "name": "The Mutants Are Revolting",
     "number": 12,
-    "productionCode": "6ACV12",
+    "production_code": "6ACV12",
     "season": 7
   },
   {
-    "id": 101,
     "name": "The Futurama Holiday Spectacular",
     "number": 13,
-    "productionCode": "6ACV13",
+    "production_code": "6ACV13",
     "season": 7
   },
   {
-    "id": 102,
     "name": "The Silence of the Clamps",
     "number": 5,
-    "productionCode": "6ACV14",
+    "production_code": "6ACV14",
     "season": 8
   },
   {
-    "id": 103,
     "name": "M\u00f6bius Dick",
     "number": 8,
-    "productionCode": "6ACV15",
+    "production_code": "6ACV15",
     "season": 8
   },
   {
-    "id": 104,
     "name": "Law and Oracle",
     "number": 4,
-    "productionCode": "6ACV16",
+    "production_code": "6ACV16",
     "season": 8
   },
   {
-    "id": 105,
     "name": "Benderama",
     "number": 2,
-    "productionCode": "6ACV17",
+    "production_code": "6ACV17",
     "season": 8
   },
   {
-    "id": 106,
     "name": "The Tip of the Zoidberg",
     "number": 10,
-    "productionCode": "6ACV18",
+    "production_code": "6ACV18",
     "season": 8
   },
   {
-    "id": 107,
     "name": "Ghost in the Machines",
     "number": 3,
-    "productionCode": "6ACV19",
+    "production_code": "6ACV19",
     "season": 8
   },
   {
-    "id": 108,
     "name": "Neutopia",
     "number": 1,
-    "productionCode": "6ACV20",
+    "production_code": "6ACV20",
     "season": 8
   },
   {
-    "id": 109,
     "name": "Yo Leela Leela",
     "number": 6,
-    "productionCode": "6ACV21",
+    "production_code": "6ACV21",
     "season": 8
   },
   {
-    "id": 110,
     "name": "Fry Am the Egg Man",
     "number": 9,
-    "productionCode": "6ACV22",
+    "production_code": "6ACV22",
     "season": 8
   },
   {
-    "id": 111,
     "name": "All the Presidents' Heads",
     "number": 7,
-    "productionCode": "6ACV23",
+    "production_code": "6ACV23",
     "season": 8
   },
   {
-    "id": 112,
     "name": "Cold Warriors",
     "number": 11,
-    "productionCode": "6ACV24",
+    "production_code": "6ACV24",
     "season": 8
   },
   {
-    "id": 113,
     "name": "Overclockwise",
     "number": 12,
-    "productionCode": "6ACV25",
+    "production_code": "6ACV25",
     "season": 8
   },
   {
-    "id": 114,
     "name": "Reincarnation",
     "number": 13,
-    "productionCode": "6ACV26",
+    "production_code": "6ACV26",
     "season": 8
   },
   {
-    "id": 115,
     "name": "The Bots and the Bees",
     "number": 1,
-    "productionCode": "7ACV01",
+    "production_code": "7ACV01",
     "season": 9
   },
   {
-    "id": 116,
     "name": "A Farewell to Arms",
     "number": 2,
-    "productionCode": "7ACV02",
+    "production_code": "7ACV02",
     "season": 9
   },
   {
-    "id": 117,
     "name": "Decision 3012",
     "number": 3,
-    "productionCode": "7ACV03",
+    "production_code": "7ACV03",
     "season": 9
   },
   {
-    "id": 118,
     "name": "The Thief of Baghead",
     "number": 4,
-    "productionCode": "7ACV04",
+    "production_code": "7ACV04",
     "season": 9
   },
   {
-    "id": 119,
     "name": "Zapp Dingbat",
     "number": 5,
-    "productionCode": "7ACV05",
+    "production_code": "7ACV05",
     "season": 9
   },
   {
-    "id": 120,
     "name": "The Butterjunk Effect",
     "number": 6,
-    "productionCode": "7ACV06",
+    "production_code": "7ACV06",
     "season": 9
   },
   {
-    "id": 121,
     "name": "The Six Million Dollar Mon",
     "number": 7,
-    "productionCode": "7ACV07",
+    "production_code": "7ACV07",
     "season": 9
   },
   {
-    "id": 122,
     "name": "Fun on a Bun",
     "number": 8,
-    "productionCode": "7ACV08",
+    "production_code": "7ACV08",
     "season": 9
   },
   {
-    "id": 123,
     "name": "Free Will Hunting",
     "number": 9,
-    "productionCode": "7ACV09",
+    "production_code": "7ACV09",
     "season": 9
   },
   {
-    "id": 124,
     "name": "Near-Death Wish",
     "number": 10,
-    "productionCode": "7ACV10",
+    "production_code": "7ACV10",
     "season": 9
   },
   {
-    "id": 125,
     "name": "31st Century Fox",
     "number": 12,
-    "productionCode": "7ACV11",
+    "production_code": "7ACV11",
     "season": 9
   },
   {
-    "id": 126,
     "name": "Viva Mars Vegas",
     "number": 11,
-    "productionCode": "7ACV12",
+    "production_code": "7ACV12",
     "season": 9
   },
   {
-    "id": 127,
     "name": "Naturama",
     "number": 13,
-    "productionCode": "7ACV13",
+    "production_code": "7ACV13",
     "season": 9
   },
   {
-    "id": 128,
     "name": "Forty Percent Leadbelly",
     "number": 4,
-    "productionCode": "7ACV14",
+    "production_code": "7ACV14",
     "season": 10
   },
   {
-    "id": 129,
     "name": "2-D Blacktop",
     "number": 1,
-    "productionCode": "7ACV15",
+    "production_code": "7ACV15",
     "season": 10
   },
   {
-    "id": 130,
     "name": "T.: The Terrestrial",
     "number": 3,
-    "productionCode": "7ACV16",
+    "production_code": "7ACV16",
     "season": 10
   },
   {
-    "id": 131,
     "name": "Fry and Leela's Big Fling",
     "number": 2,
-    "productionCode": "7ACV17",
+    "production_code": "7ACV17",
     "season": 10
   },
   {
-    "id": 132,
     "name": "The Inhuman Torch",
     "number": 5,
-    "productionCode": "7ACV18",
+    "production_code": "7ACV18",
     "season": 10
   },
   {
-    "id": 133,
     "name": "Saturday Morning Fun Pit",
     "number": 6,
-    "productionCode": "7ACV19",
+    "production_code": "7ACV19",
     "season": 10
   },
   {
-    "id": 134,
     "name": "Calculon 2.0",
     "number": 7,
-    "productionCode": "7ACV20",
+    "production_code": "7ACV20",
     "season": 10
   },
   {
-    "id": 135,
     "name": "Assie Come Home",
     "number": 8,
-    "productionCode": "7ACV21",
+    "production_code": "7ACV21",
     "season": 10
   },
   {
-    "id": 136,
     "name": "Leela and the Genestalk",
     "number": 9,
-    "productionCode": "7ACV22",
+    "production_code": "7ACV22",
     "season": 10
   },
   {
-    "id": 137,
     "name": "Game of Tones",
     "number": 10,
-    "productionCode": "7ACV23",
+    "production_code": "7ACV23",
     "season": 10
   },
   {
-    "id": 138,
     "name": "Murder on the Planet Express",
     "number": 11,
-    "productionCode": "7ACV24",
+    "production_code": "7ACV24",
     "season": 10
   },
   {
-    "id": 139,
     "name": "Stench and Stenchibility",
     "number": 12,
-    "productionCode": "7ACV25",
+    "production_code": "7ACV25",
     "season": 10
   },
   {
-    "id": 140,
     "name": "Meanwhile",
     "number": 13,
-    "productionCode": "7ACV26",
+    "production_code": "7ACV26",
     "season": 10
   },
   {
-    "id": 141,
     "name": "The Impossible Stream",
     "number": 1,
-    "productionCode": "8ACV01",
+    "production_code": "8ACV01",
     "season": 11
   },
   {
-    "id": 142,
     "name": "Children of a Lesser Bog",
     "number": 2,
-    "productionCode": "8ACV02",
+    "production_code": "8ACV02",
     "season": 11
   },
   {
-    "id": 143,
     "name": "How The West Was 1010001",
     "number": 3,
-    "productionCode": "8ACV03",
+    "production_code": "8ACV03",
     "season": 11
   },
   {
-    "id": 144,
     "name": "Parasites Regained",
     "number": 4,
-    "productionCode": "8ACV04",
+    "production_code": "8ACV04",
     "season": 11
   },
   {
-    "id": 145,
     "name": "Related to Items You've Viewed",
     "number": 5,
-    "productionCode": "8ACV05",
+    "production_code": "8ACV05",
     "season": 11
   },
   {
-    "id": 146,
     "name": "I Know What You Did Next Xmas",
     "number": 6,
-    "productionCode": "8ACV06",
+    "production_code": "8ACV06",
     "season": 11
   },
   {
-    "id": 147,
     "name": "Rage Against the Vaccine",
     "number": 7,
-    "productionCode": "8ACV07",
+    "production_code": "8ACV07",
     "season": 11
   },
   {
-    "id": 148,
     "name": "Zapp Gets Cancelled",
     "number": 8,
-    "productionCode": "8ACV08",
+    "production_code": "8ACV08",
     "season": 11
   },
   {
-    "id": 149,
     "name": "The Prince and the Product",
     "number": 9,
-    "productionCode": "8ACV09",
+    "production_code": "8ACV09",
     "season": 11
   },
   {
-    "id": 150,
     "name": "All the Way Down",
     "number": 10,
-    "productionCode": "8ACV10",
+    "production_code": "8ACV10",
     "season": 11
   }
 ]

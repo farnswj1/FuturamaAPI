@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Hello &mdash; Futurama API{% endblock %}
+
+{% block content %}
+  <h1>{{ character.name }}</h1>
+
+  {% match character.image %}
+    {% when Some with (image) %}
+    <img alt="{{ character.name }}" src="{{ image }}" class="character-img"></img>
+    {% when None %}
+  {% endmatch %}
+
+  {% match character.gender %}
+    {% when Some with (gender) %}
+      <p>Gender: {{ gender }}</p>
+    {% when None %}
+      <p>Gender: N/A</p>
+  {% endmatch %}
+
+  {% match character.species %}
+    {% when Some with (species) %}
+      <p>Species: {{ species }}</p>
+    {% when None %}
+      <p>Species: N/A</p>
+  {% endmatch %}
+
+  {% match character.status %}
+    {% when Some with (status) %}
+      <p>Status: {{ status }}</p>
+    {% when None %}
+      <p>Status: N/A</p>
+  {% endmatch %}
+
+  <p>Created At: {{ character.created_at }}</p>
+{% endblock %}

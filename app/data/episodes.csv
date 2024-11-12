@@ -1,0 +1,151 @@
+name,number,production_code,season
+Space Pilot 3000,1,1ACV01,1
+The Series Has Landed,2,1ACV02,1
+"I, Roommate",3,1ACV03,1
+Love's Labours Lost in Space,4,1ACV04,1
+Fear of a Bot Planet,5,1ACV05,1
+A Fishful of Dollars,6,1ACV06,1
+My Three Suns,7,1ACV07,1
+A Big Piece of Garbage,8,1ACV08,1
+Hell Is Other Robots,9,1ACV09,1
+A Flight to Remember,1,1ACV10,2
+Mars University,2,1ACV11,2
+When Aliens Attack,3,1ACV12,2
+Fry and the Slurm Factory,4,1ACV13,2
+I Second that Emotion,5,2ACV01,2
+"Brannigan, Begin Again",6,2ACV02,2
+A Head in the Polls,7,2ACV03,2
+Xmas Story,8,2ACV04,2
+Why Must I Be a Crustacean in Love?,9,2ACV05,2
+The Lesser of Two Evils,11,2ACV06,2
+Put Your Head on My Shoulders,10,2ACV07,2
+Raging Bender,12,2ACV08,2
+A Bicyclops Built for Two,13,2ACV09,2
+A Clone of My Own,15,2ACV10,2
+How Hermes Requisitioned His Groove Back,14,2ACV11,2
+The Deep South,16,2ACV12,2
+Bender Gets Made,17,2ACV13,2
+Mother's Day,19,2ACV14,2
+The Problem with Popplers,18,2ACV15,2
+Anthology of Interest I,20,2ACV16,2
+War Is the H-Word,2,2ACV17,3
+The Honking,1,2ACV18,3
+The Cryonic Woman,3,2ACV19,3
+Amazon Women in the Mood,5,3ACV01,3
+Parasites Lost,4,3ACV02,3
+The Luck of the Fryrish,10,3ACV04,3
+The Birdbot of Ice-Catraz,9,3ACV05,3
+Bendless Love,6,3ACV06,3
+The Day the Earth Stood Stupid,7,3ACV07,3
+That's Lobstertainment!,8,3ACV08,3
+The Cyber House Rules,11,3ACV09,3
+Insane in the Mainframe,12,3ACV11,3
+Bendin' in the Wind,13,3ACV13,3
+Time Keeps on Slippin',14,3ACV14,3
+I Dated a Robot,15,3ACV15,3
+A Tale of Two Santas,2,3ACV03,4
+Where the Buggalo Roam,6,3ACV10,4
+A Leela of Her Own,10,3ACV16,4
+A Pharaoh to Remember,7,3ACV17,4
+Anthology of Interest II,3,3ACV18,4
+Roswell that Ends Well,1,3ACV19,4
+Godfellas,8,3ACV20,4
+Future Stock,9,3ACV21,4
+The 30% Iron Chef,11,3ACV22,4
+Leela's Homeworld,5,4ACV02,4
+Love and Rocket,4,4ACV03,4
+Where No Fan Has Gone Before,12,4ACV11,4
+The Route of All Evil,3,3ACV12,5
+Kif Gets Knocked Up a Notch,5,4ACV01,5
+Less than Hero,6,4ACV04,5
+A Taste of Freedom,4,4ACV05,5
+Bender Should Not Be Allowed on Television,15,4ACV06,5
+Jurassic Bark,2,4ACV07,5
+Crimes of the Hot,1,4ACV08,5
+Teenage Mutant Leela's Hurdles,7,4ACV09,5
+The Why of Fry,8,4ACV10,5
+The Sting,9,4ACV12,5
+Bend Her,13,4ACV13,5
+Obsoletely Fabulous,14,4ACV14,5
+The Farnsworth Parabox,10,4ACV15,5
+Three Hundred Big Boys,11,4ACV16,5
+Spanish Fry,12,4ACV17,5
+The Devil's Hands Are Idle Playthings,16,4ACV18,5
+Bender's Big Score Part 1,1,5ACV01,6
+Bender's Big Score Part 2,2,5ACV02,6
+Bender's Big Score Part 3,3,5ACV03,6
+Bender's Big Score Part 4,4,5ACV04,6
+The Beast with a Billion Backs Part 1,5,5ACV05,6
+The Beast with a Billion Backs Part 2,6,5ACV06,6
+The Beast with a Billion Backs Part 3,7,5ACV07,6
+The Beast with a Billion Backs Part 4,8,5ACV08,6
+Bender's Game Part 1,9,5ACV09,6
+Bender's Game Part 2,10,5ACV10,6
+Bender's Game Part 3,11,5ACV11,6
+Bender's Game Part 4,12,5ACV12,6
+Into the Wild Green Yonder Part 1,13,5ACV13,6
+Into the Wild Green Yonder Part 2,14,5ACV14,6
+Into the Wild Green Yonder Part 3,15,5ACV15,6
+Into the Wild Green Yonder Part 4,16,5ACV16,6
+Rebirth,1,6ACV01,7
+In-A-Gadda-Da-Leela,2,6ACV02,7
+Attack of the Killer App,3,6ACV03,7
+Proposition Infinity,4,6ACV04,7
+The Duh-Vinci Code,5,6ACV05,7
+Lethal Inspection,6,6ACV06,7
+The Late Philip J. Fry,7,6ACV07,7
+That Darn Katz!,8,6ACV08,7
+A Clockwork Origin,9,6ACV09,7
+The Prisoner of Benda,10,6ACV10,7
+Lrrreconcilable Ndndifferences,11,6ACV11,7
+The Mutants Are Revolting,12,6ACV12,7
+The Futurama Holiday Spectacular,13,6ACV13,7
+The Silence of the Clamps,5,6ACV14,8
+Möbius Dick,8,6ACV15,8
+Law and Oracle,4,6ACV16,8
+Benderama,2,6ACV17,8
+The Tip of the Zoidberg,10,6ACV18,8
+Ghost in the Machines,3,6ACV19,8
+Neutopia,1,6ACV20,8
+Yo Leela Leela,6,6ACV21,8
+Fry Am the Egg Man,9,6ACV22,8
+All the Presidents' Heads,7,6ACV23,8
+Cold Warriors,11,6ACV24,8
+Overclockwise,12,6ACV25,8
+Reincarnation,13,6ACV26,8
+The Bots and the Bees,1,7ACV01,9
+A Farewell to Arms,2,7ACV02,9
+Decision 3012,3,7ACV03,9
+The Thief of Baghead,4,7ACV04,9
+Zapp Dingbat,5,7ACV05,9
+The Butterjunk Effect,6,7ACV06,9
+The Six Million Dollar Mon,7,7ACV07,9
+Fun on a Bun,8,7ACV08,9
+Free Will Hunting,9,7ACV09,9
+Near-Death Wish,10,7ACV10,9
+31st Century Fox,12,7ACV11,9
+Viva Mars Vegas,11,7ACV12,9
+Naturama,13,7ACV13,9
+Forty Percent Leadbelly,4,7ACV14,10
+2-D Blacktop,1,7ACV15,10
+T.: The Terrestrial,3,7ACV16,10
+Fry and Leela's Big Fling,2,7ACV17,10
+The Inhuman Torch,5,7ACV18,10
+Saturday Morning Fun Pit,6,7ACV19,10
+Calculon 2.0,7,7ACV20,10
+Assie Come Home,8,7ACV21,10
+Leela and the Genestalk,9,7ACV22,10
+Game of Tones,10,7ACV23,10
+Murder on the Planet Express,11,7ACV24,10
+Stench and Stenchibility,12,7ACV25,10
+Meanwhile,13,7ACV26,10
+The Impossible Stream,1,8ACV01,11
+Children of a Lesser Bog,2,8ACV02,11
+How The West Was 1010001,3,8ACV03,11
+Parasites Regained,4,8ACV04,11
+Related to Items You've Viewed,5,8ACV05,11
+I Know What You Did Next Xmas,6,8ACV06,11
+Rage Against the Vaccine,7,8ACV07,11
+Zapp Gets Cancelled,8,8ACV08,11
+The Prince and the Product,9,8ACV09,11
+All the Way Down,10,8ACV10,11

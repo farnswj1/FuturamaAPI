@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}Hello &mdash; Futurama API{% endblock %}
+
+{% block content %}
+  <h1>List of Episodes</h1>
+  <table>
+    <thead>
+      <tr>
+        <td>Production Code</td>
+        <td>Season & Number</td>
+        <td>Name</td>
+      </tr>
+    </thead>
+    <tbody>
+      {% for episode in episodes %}
+        <tr>
+          <td><a href="/episodes/{{ episode.id }}">{{ episode.production_code }}</a></td>
+          <td>{{ episode.season }}-{{ episode.number }}</td>
+          <td>{{ episode.name }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}
