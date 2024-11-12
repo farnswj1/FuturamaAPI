@@ -1,19 +1,20 @@
-use askama_axum::{IntoResponse, Response, Template};
+use askama_axum::{IntoResponse, Response};
 use axum::extract::{Path, Query, State};
 use sqlx::{query_as, PgPool};
 
-use crate::app::serializers::{
-    models::Episode,
-    query::{NameQuery, Paginator}
+use crate::app::{
+    serializers::{
+        models::Episode,
+        query::{NameQuery, Paginator}
+    },
+    templates::{
+        episodes::{
+            EpisodeDetailTemplate,
+            EpisodeListTemplate
+        },
+        NotFoundTemplate
+    }
 };
-
-use super::NotFoundTemplate;
-
-#[derive(Template)]
-#[template(path = "episodes/list.html")]
-pub struct EpisodeListTemplate {
-    episodes: Vec<Episode>
-}
 
 pub async fn get_episodes(
     State(db): State<PgPool>,
@@ -33,12 +34,6 @@ pub async fn get_episodes(
         .unwrap();
 
     EpisodeListTemplate { episodes }
-}
-
-#[derive(Template)]
-#[template(path = "episodes/detail.html")]
-pub struct EpisodeDetailTemplate {
-    episode: Episode
 }
 
 pub async fn get_episode(

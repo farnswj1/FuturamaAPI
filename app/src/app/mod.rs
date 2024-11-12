@@ -1,6 +1,7 @@
 pub mod config;
 mod handlers;
 mod serializers;
+mod templates;
 
 use std::net::SocketAddr;
 

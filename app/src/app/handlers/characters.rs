@@ -1,19 +1,20 @@
-use askama_axum::{IntoResponse, Response, Template};
+use askama_axum::{IntoResponse, Response};
 use axum::extract::{Path, Query, State};
 use sqlx::{query_as, PgPool};
 
-use crate::app::serializers::{
-    models::Character,
-    query::{NameQuery, Paginator}
+use crate::app::{
+    serializers::{
+        models::Character,
+        query::{NameQuery, Paginator}
+    },
+    templates::{
+        characters::{
+            CharacterDetailTemplate,
+            CharacterListTemplate
+        },
+        NotFoundTemplate
+    }
 };
-
-use super::NotFoundTemplate;
-
-#[derive(Template)]
-#[template(path = "characters/list.html")]
-pub struct CharacterListTemplate {
-    characters: Vec<Character>
-}
 
 pub async fn get_characters(
     State(db): State<PgPool>,
@@ -33,12 +34,6 @@ pub async fn get_characters(
         .unwrap();
 
     CharacterListTemplate { characters }
-}
-
-#[derive(Template)]
-#[template(path = "characters/detail.html")]
-pub struct CharacterDetailTemplate {
-    character: Character
 }
 
 pub async fn get_character(
