@@ -3,7 +3,16 @@
 {% block title %}{{ episode.name }} &mdash; Futurama API{% endblock %}
 
 {% block content %}
-  <h1>{{ episode.name }}</h1>
+  <h1 class="title">{{ episode.name }}</h1>
+  <nav class="breadcrumb" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="/">Futurama API</a></li>
+      <li><a href="/episodes">Episodes</a></li>
+      <li class="is-active">
+        <a href="/episodes/{{ episode.id }}" aria-current="page">{{ episode.name }}</a>
+      </li>
+    </ul>
+  </nav>
   <p>Production: {{ episode.production_code }}</p>
   <p>Season: {{ episode.season }}</p>
   <p>Episode: {{ episode.number }}</p>

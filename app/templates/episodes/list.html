@@ -3,8 +3,14 @@
 {% block title %}Episodes &mdash; Futurama API{% endblock %}
 
 {% block content %}
-  <h1>List of Episodes</h1>
-  <table>
+  <h1 class="title">List of Episodes</h1>
+  <nav class="breadcrumb" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="/">Futurama API</a></li>
+      <li class="is-active"><a href="/episodes" aria-current="page">Episodes</a></li>
+    </ul>
+  </nav>
+  <table class="table">
     <thead>
       <tr>
         <td>Production Code</td>

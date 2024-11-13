@@ -1,9 +1,12 @@
 {% extends "base.html" %}
 
 {% block content %}
-  <h1>This is a Futurama API.</h1>
-  <ol>
-    <li><a href="/characters">List of characters</a></li>
-    <li><a href="/episodes">List of episodes</a></li>
-  </ol>
+  <h1 class="title has-text-primary is-1">This is a Futurama API.</h1>
+  <aside class="menu">
+    <p class="menu-label">Records</p>
+    <ul class="menu-list">
+      <li><a href="/characters">List of Characters</a></li>
+      <li><a href="/episodes">List of Episodes</a></li>
+    </ul>
+  </aside>
 {% endblock %}

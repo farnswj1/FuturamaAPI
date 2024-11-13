@@ -3,19 +3,23 @@
 {% block title %}{{ character.name }} &mdash; Futurama API{% endblock %}
 
 {% block content %}
-  <h1>{{ character.name }}</h1>
+  <h1 class="title">{{ character.name }}</h1>
+  <nav class="breadcrumb" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="/">Futurama API</a></li>
+      <li><a href="/characters">Characters</a></li>
+      <li class="is-active">
+        <a href="/characters/{{ character.id }}" aria-current="page">{{ character.name }}</a>
+      </li>
+    </ul>
+  </nav>
 
   {% match character.image %}
     {% when Some with (image) %}
-    <img alt="{{ character.name }}" src="{{ image }}" class="character-img"></img>
+      <figure class="image block">
+        <img alt="{{ character.name }}" src="{{ image }}" class="character-img"></img>
+      </figure>
     {% when None %}
-  {% endmatch %}
-
-  {% match character.gender %}
-    {% when Some with (gender) %}
-      <p>Gender: {{ gender }}</p>
-    {% when None %}
-      <p>Gender: N/A</p>
   {% endmatch %}
 
   {% match character.species %}
@@ -23,6 +27,13 @@
       <p>Species: {{ species }}</p>
     {% when None %}
       <p>Species: N/A</p>
+  {% endmatch %}
+
+  {% match character.gender %}
+    {% when Some with (gender) %}
+      <p>Gender: {{ gender }}</p>
+    {% when None %}
+      <p>Gender: N/A</p>
   {% endmatch %}
 
   {% match character.status %}
