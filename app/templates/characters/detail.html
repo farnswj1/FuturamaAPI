@@ -13,7 +13,6 @@
       </li>
     </ul>
   </nav>
-
   {% match character.image %}
     {% when Some with (image) %}
       <figure class="image block">
@@ -21,27 +20,35 @@
       </figure>
     {% when None %}
   {% endmatch %}
-
-  {% match character.species %}
-    {% when Some with (species) %}
-      <p>Species: {{ species }}</p>
-    {% when None %}
-      <p>Species: N/A</p>
-  {% endmatch %}
-
-  {% match character.gender %}
-    {% when Some with (gender) %}
-      <p>Gender: {{ gender }}</p>
-    {% when None %}
-      <p>Gender: N/A</p>
-  {% endmatch %}
-
-  {% match character.status %}
-    {% when Some with (status) %}
-      <p>Status: {{ status }}</p>
-    {% when None %}
-      <p>Status: N/A</p>
-  {% endmatch %}
-
-  <p>Created At: {{ character.created_at }}</p>
+  <p class="block">
+    <span class="has-text-weight-bold">Species:</span>
+    {% match character.species %}
+      {% when Some with (species) %}
+        {{ species }}
+      {% when None %}
+        N/A
+    {% endmatch %}
+  </p>
+  <p class="block">
+    <span class="has-text-weight-bold">Gender:</span>
+    {% match character.gender %}
+      {% when Some with (gender) %}
+        {{ gender }}
+      {% when None %}
+        N/A
+    {% endmatch %}
+  </p>
+  <p class="block">
+    <span class="has-text-weight-bold">Status:</span>
+    {% match character.status %}
+      {% when Some with (status) %}
+        {{ status }}
+      {% when None %}
+        N/A
+    {% endmatch %}
+  </p>
+  <p class="block">
+    <span class="has-text-weight-bold">Created At:</span>
+    {{ character.created_at }}
+  </p>
 {% endblock %}
