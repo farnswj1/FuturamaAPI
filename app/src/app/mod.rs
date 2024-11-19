@@ -1,4 +1,4 @@
-pub mod config;
+mod config;
 mod handlers;
 mod serializers;
 mod templates;
@@ -22,7 +22,9 @@ use tower_http::cors::CorsLayer;
 use tower_http::services::ServeDir;
 use tower_http::trace::TraceLayer;
 
-pub async fn get_router(config: &Config) -> Result<IntoMakeServiceWithConnectInfo<Router, SocketAddr>, Error> {
+pub async fn get_router() -> Result<IntoMakeServiceWithConnectInfo<Router, SocketAddr>, Error> {
+    let config = envy::from_env::<Config>().unwrap();
+
     let origins = config.cors_allowed_origins
         .split(" ")
         .map(|origin| origin.parse().unwrap())
