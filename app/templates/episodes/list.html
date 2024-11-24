@@ -13,25 +13,29 @@
     </ul>
   </nav>
   {% include "search_form.html" %}
-  <table class="table is-hoverable">
-    <thead>
-      <tr>
-        <td>Production Code</td>
-        <td>Season & Number</td>
-        <td>Name</td>
-      </tr>
-    </thead>
-    <tbody>
-      {% for episode in episodes %}
+  {% if episodes.len() > 0 %}
+    <table class="table is-hoverable">
+      <thead>
         <tr>
-          <td>
-            <a href="/episodes/{{ episode.id }}">{{ episode.production_code }}</a>
-          </td>
-          <td>{{ episode.season }}-{{ episode.number }}</td>
-          <td>{{ episode.name }}</td>
+          <td>Production Code</td>
+          <td>Season & Number</td>
+          <td>Name</td>
         </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-  {% include "pagination.html" %}
+      </thead>
+      <tbody>
+        {% for episode in episodes %}
+          <tr>
+            <td>
+              <a href="/episodes/{{ episode.id }}">{{ episode.production_code }}</a>
+            </td>
+            <td>{{ episode.season }}-{{ episode.number }}</td>
+            <td>{{ episode.name }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% include "pagination.html" %}
+  {% else %}
+    <p>No records met the search criteria.</p>
+  {% endif %}
 {% endblock %}

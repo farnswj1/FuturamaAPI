@@ -1,4 +1,6 @@
-{% if total_pages > 1 %}
+{% if page >= 1 && total_pages >= page %}
+  {% let previous_page = page - 1 %}
+  {% let next_page = page + 1 %}
   <nav class="pagination" role="navigation" aria-label="pagination">
     <ul class="pagination-list">
       {% if page > 1 %}
@@ -8,10 +10,16 @@
           </a>
         </li>
       {% endif %}
-      {% if page > 3 %}
+      {% if page == 4 %}
+        {% let previous_previous_page = page - 2 %}
+        <li>
+          <a href="{{ path }}?page={{ previous_previous_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ previous_previous_page }}">
+            {{ previous_previous_page }}
+          </a>
+        </li>
+      {% else if page > 4 %}
         <li><span class="pagination-ellipsis">&hellip;</span></li>
       {% endif %}
-      {% let previous_page = page - 1 %}
       {% if previous_page > 1 %}
         <li>
           <a href="{{ path }}?page={{ previous_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ previous_page }}">
@@ -19,30 +27,34 @@
           </a>
         </li>
       {% endif %}
-      {% if page > 0 && total_pages >= page %}
+      <li>
+        <a class="pagination-link is-current" aria-label="Page {{ page }}" aria-current="page">
+          {{ page }}
+        </a>
+      </li>
+      {% if total_pages > next_page %}
         <li>
-          <a class="pagination-link is-current" aria-label="Page {{ page }}" aria-current="page">
-            {{ page }}
+          <a href="{{ path }}?page={{ next_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Goto page {{ next_page }}">
+            {{ next_page }}
           </a>
         </li>
       {% endif %}
-      {% let next_page = page + 1 %}
-      {% if total_pages > next_page %}
-      <li>
-        <a href="{{ path }}?page={{ next_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Goto page {{ next_page }}">
-          {{ next_page }}
-        </a>
-      </li>
-      {% endif %}
-      {% if total_pages - 2 > page %}
-      <li><span class="pagination-ellipsis">&hellip;</span></li>
+      {% if page == total_pages - 3 %}
+        {% let next_next_page = page + 2 %}
+        <li>
+          <a href="{{ path }}?page={{ next_next_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ next_next_page }}">
+            {{ next_next_page }}
+          </a>
+        </li>
+      {% else if total_pages - 3 > page %}
+        <li><span class="pagination-ellipsis">&hellip;</span></li>
       {% endif %}
       {% if total_pages > page %}
-      <li>
-        <a href="{{ path }}?page={{ total_pages }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ total_pages }}">
-          {{ total_pages }}
-        </a>
-      </li>
+        <li>
+          <a href="{{ path }}?page={{ total_pages }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ total_pages }}">
+            {{ total_pages }}
+          </a>
+        </li>
       {% endif %}
     </ul>
   </nav>

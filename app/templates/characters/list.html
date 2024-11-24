@@ -13,48 +13,52 @@
     </ul>
   </nav>
   {% include "search_form.html" %}
-  <table class="table is-hoverable">
-    <thead>
-      <tr>
-        <td>Name</td>
-        <td>Species</td>
-        <td>Gender</td>
-        <td>Status</td>
-      </tr>
-    </thead>
-    <tbody>
-      {% for character in characters %}
+  {% if characters.len() > 0 %}
+    <table class="table is-hoverable">
+      <thead>
         <tr>
-          <td>
-            <a href="/characters/{{ character.id }}">{{ character.name }}</a>
-          </td>
-          <td>
-            {% match character.species %}
-              {% when Some with (species) %}
-                {{ species }}
-              {% when None %}
-                N/A
-            {% endmatch %}
-          </td>
-          <td>
-            {% match character.gender %}
-              {% when Some with (gender) %}
-                {{ gender }}
-              {% when None %}
-                N/A
-            {% endmatch %}
-          </td>
-          <td>
-            {% match character.status %}
-              {% when Some with (status) %}
-                {{ status }}
-              {% when None %}
-                N/A
-            {% endmatch %}
-          </td>
+          <td>Name</td>
+          <td>Species</td>
+          <td>Gender</td>
+          <td>Status</td>
         </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-  {% include "pagination.html" %}
+      </thead>
+      <tbody>
+        {% for character in characters %}
+          <tr>
+            <td>
+              <a href="/characters/{{ character.id }}">{{ character.name }}</a>
+            </td>
+            <td>
+              {% match character.species %}
+                {% when Some with (species) %}
+                  {{ species }}
+                {% when None %}
+                  N/A
+              {% endmatch %}
+            </td>
+            <td>
+              {% match character.gender %}
+                {% when Some with (gender) %}
+                  {{ gender }}
+                {% when None %}
+                  N/A
+              {% endmatch %}
+            </td>
+            <td>
+              {% match character.status %}
+                {% when Some with (status) %}
+                  {{ status }}
+                {% when None %}
+                  N/A
+              {% endmatch %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% include "pagination.html" %}
+  {% else %}
+    <p>No records met the search criteria.</p>
+  {% endif %}
 {% endblock %}
