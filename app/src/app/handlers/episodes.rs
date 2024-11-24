@@ -34,7 +34,7 @@ pub async fn get_episodes(
         .bind((page - 1) * size)
         .fetch_all(&db)
         .await
-        .unwrap();
+        .unwrap_or(vec![]);
 
     let count: i64 =
         query_scalar("select count(*) from episodes where name ilike $1")
