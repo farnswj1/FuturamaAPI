@@ -49,6 +49,6 @@
   </p>
   <p class="block">
     <span class="has-text-weight-bold">Created At:</span>
-    {{ character.created_at }}
+    {{ character.created_at.format("%m/%d/%Y %l:%M%P %Z") }}
   </p>
 {% endblock %}
