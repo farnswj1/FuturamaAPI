@@ -7,7 +7,9 @@
   <nav class="breadcrumb" aria-label="breadcrumbs">
     <ul>
       <li><a href="/">Futurama API</a></li>
-      <li class="is-active"><a href="/episodes" aria-current="page">Episodes</a></li>
+      <li class="is-active">
+        <a href="/episodes" aria-current="page">Episodes</a>
+      </li>
     </ul>
   </nav>
   <table class="table">
@@ -21,7 +23,9 @@
     <tbody>
       {% for episode in episodes %}
         <tr>
-          <td><a href="/episodes/{{ episode.id }}">{{ episode.production_code }}</a></td>
+          <td>
+            <a href="/episodes/{{ episode.id }}">{{ episode.production_code }}</a>
+          </td>
           <td>{{ episode.season }}-{{ episode.number }}</td>
           <td>{{ episode.name }}</td>
         </tr>

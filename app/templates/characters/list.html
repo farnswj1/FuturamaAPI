@@ -7,7 +7,9 @@
   <nav class="breadcrumb" aria-label="breadcrumbs">
     <ul>
       <li><a href="/">Futurama API</a></li>
-      <li class="is-active"><a href="/characters" aria-current="page">Characters</a></li>
+      <li class="is-active">
+        <a href="/characters" aria-current="page">Characters</a>
+      </li>
     </ul>
   </nav>
   <table class="table">
@@ -22,7 +24,9 @@
     <tbody>
       {% for character in characters %}
         <tr>
-          <td><a href="/characters/{{ character.id }}">{{ character.name }}</a></td>
+          <td>
+            <a href="/characters/{{ character.id }}">{{ character.name }}</a>
+          </td>
           <td>
             {% match character.species %}
               {% when Some with (species) %}
