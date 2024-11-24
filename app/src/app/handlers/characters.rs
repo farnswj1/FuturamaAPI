@@ -1,6 +1,6 @@
 use askama_axum::{IntoResponse, Response};
-use axum::extract::{Path, Query, State};
-use sqlx::{query_as, PgPool};
+use axum::extract::{OriginalUri, Path, Query, State};
+use sqlx::{query_as, query_scalar, PgPool};
 
 use crate::app::{
     serializers::{
@@ -17,23 +17,42 @@ use crate::app::{
 };
 
 pub async fn get_characters(
+    OriginalUri(uri): OriginalUri,
     State(db): State<PgPool>,
     character: Option<Query<NameQuery>>,
     paginator: Option<Query<Paginator>>
 ) -> CharacterListTemplate {
     let Query(NameQuery { name }) = character.unwrap_or_default();
     let Query(Paginator { page, size }) = paginator.unwrap_or_default();
+    let path = uri.path().to_string();
+    let name_ilike = format!("%{}%", name);
 
     let characters =
         query_as::<_, Character>("select * from characters where name ilike $1 limit $2 offset $3")
-        .bind(format!("%{}%", name))
+        .bind(&name_ilike)
         .bind(size)
         .bind((page - 1) * size)
         .fetch_all(&db)
         .await
         .unwrap();
 
-    CharacterListTemplate { characters }
+    let count: i64 =
+        query_scalar("select count(*) from characters where name ilike $1")
+        .bind(&name_ilike)
+        .fetch_one(&db)
+        .await
+        .unwrap_or(0);
+
+    let total_pages = ((count - 1) / size) + 1;
+
+    CharacterListTemplate {
+        characters,
+        path,
+        total_pages,
+        page,
+        size,
+        name
+    }
 }
 
 pub async fn get_character(

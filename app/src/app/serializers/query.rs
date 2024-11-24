@@ -8,8 +8,8 @@ pub struct NameQuery {
 
 #[derive(Deserialize)]
 pub struct Paginator {
-    pub page: i16,
-    pub size: i16
+    pub page: i64,
+    pub size: i64
 }
 
 impl Default for Paginator {
