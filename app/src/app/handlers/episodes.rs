@@ -1,16 +1,10 @@
 use askama_axum::{IntoResponse, Response};
-use axum::{extract::{OriginalUri, Path, Query, State}, http::StatusCode};
+use axum::extract::{OriginalUri, Path, Query, State};
 
 use crate::app::{
     db::Database,
     serializers::query::{NameQuery, Paginator},
-    templates::{
-        episodes::{
-            EpisodeDetailTemplate,
-            EpisodeListTemplate
-        },
-        NotFoundTemplate
-    }
+    templates::episodes::{EpisodeDetailTemplate, EpisodeListTemplate}
 };
 
 use super::errors::AppError;
@@ -43,8 +37,6 @@ pub async fn get_episode(
     State(db): State<Database>,
     Path(id): Path<String>
 ) -> Result<Response, AppError> {
-    Ok(match db.get_episode(&id).await? {
-        Some(episode) => EpisodeDetailTemplate { episode }.into_response(),
-        None => (StatusCode::NOT_FOUND, NotFoundTemplate).into_response()
-    })
+    let episode = db.get_episode(&id).await?.ok_or(AppError::NotFound)?;
+    Ok(EpisodeDetailTemplate { episode }.into_response())
 }

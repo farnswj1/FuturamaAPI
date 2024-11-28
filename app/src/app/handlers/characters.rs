@@ -1,16 +1,10 @@
 use askama_axum::{IntoResponse, Response};
-use axum::{extract::{OriginalUri, Path, Query, State}, http::StatusCode};
+use axum::extract::{OriginalUri, Path, Query, State};
 
 use crate::app::{
     db::Database,
     serializers::query::{NameQuery, Paginator},
-    templates::{
-        characters::{
-            CharacterDetailTemplate,
-            CharacterListTemplate
-        },
-        NotFoundTemplate
-    }
+    templates::characters::{CharacterDetailTemplate, CharacterListTemplate}
 };
 
 use super::errors::AppError;
@@ -43,8 +37,6 @@ pub async fn get_character(
     State(db): State<Database>,
     Path(id): Path<String>
 ) -> Result<Response, AppError> {
-    Ok(match db.get_character(&id).await? {
-        Some(character) => CharacterDetailTemplate { character }.into_response(),
-        None => (StatusCode::NOT_FOUND, NotFoundTemplate).into_response()
-    })
+    let character = db.get_character(&id).await?.ok_or(AppError::NotFound)?;
+    Ok(CharacterDetailTemplate { character }.into_response())
 }
