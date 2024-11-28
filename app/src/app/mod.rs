@@ -1,4 +1,5 @@
 mod config;
+mod db;
 mod handlers;
 mod log;
 mod serializers;
@@ -12,13 +13,13 @@ use axum::Error;
 use axum::{http::Method, routing::get, Router};
 use axum_client_ip::SecureClientIpSource;
 use config::Config;
+use db::Database;
 use handlers::{
     characters::{get_character, get_characters},
     episodes::{get_episode, get_episodes},
     index,
     not_found
 };
-use sqlx::postgres::PgPoolOptions;
 use tower_http::cors::CorsLayer;
 use tower_http::services::ServeDir;
 use tower_http::trace::{DefaultOnFailure, TraceLayer};
@@ -29,11 +30,7 @@ pub async fn get_router() -> Result<IntoMakeServiceWithConnectInfo<Router, Socke
     let config = envy::from_env::<Config>().unwrap();
 
     // Connect to DB
-    let database = PgPoolOptions::new()
-        .max_connections(5)
-        .connect(&config.database_url)
-        .await
-        .expect("Connected to database");
+    let database = Database::new(&config.database_url).await.unwrap();
 
     // Create list of allowed origins
     let origins = config.cors_allowed_origins
