@@ -1,4 +1,3 @@
-use askama_axum::{IntoResponse, Response};
 use axum::extract::{OriginalUri, Path, Query, State};
 
 use crate::app::{
@@ -36,7 +35,7 @@ pub async fn get_episodes(
 pub async fn get_episode(
     State(db): State<Database>,
     Path(id): Path<String>
-) -> Result<Response, AppError> {
+) -> Result<EpisodeDetailTemplate, AppError> {
     let episode = db.get_episode(&id).await?.ok_or(AppError::NotFound)?;
-    Ok(EpisodeDetailTemplate { episode }.into_response())
+    Ok(EpisodeDetailTemplate { episode })
 }

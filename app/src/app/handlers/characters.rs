@@ -1,4 +1,3 @@
-use askama_axum::{IntoResponse, Response};
 use axum::extract::{OriginalUri, Path, Query, State};
 
 use crate::app::{
@@ -36,7 +35,7 @@ pub async fn get_characters(
 pub async fn get_character(
     State(db): State<Database>,
     Path(id): Path<String>
-) -> Result<Response, AppError> {
+) -> Result<CharacterDetailTemplate, AppError> {
     let character = db.get_character(&id).await?.ok_or(AppError::NotFound)?;
-    Ok(CharacterDetailTemplate { character }.into_response())
+    Ok(CharacterDetailTemplate { character })
 }
