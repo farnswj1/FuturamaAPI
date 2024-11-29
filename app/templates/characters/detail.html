@@ -17,8 +17,8 @@
   </nav>
   {% match character.image %}
     {% when Some with (image) %}
-      <figure class="image block">
-        <img alt="{{ character.name }}" src="{{ image }}" class="character-img"></img>
+      <figure class="image block is-800mw">
+        <img alt="{{ character.name }}" src="{{ image }}"></img>
       </figure>
     {% when None %}
   {% endmatch %}
