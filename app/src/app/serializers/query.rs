@@ -1,3 +1,5 @@
+use std::num::NonZeroU64;
+
 use serde::Deserialize;
 use sqlx::prelude::FromRow;
 
@@ -8,12 +10,15 @@ pub struct NameQuery {
 
 #[derive(Deserialize)]
 pub struct Paginator {
-    pub page: i64,
-    pub size: i64
+    pub page: NonZeroU64,
+    pub size: NonZeroU64
 }
 
 impl Default for Paginator {
     fn default() -> Self {
-        Self { page: 1, size: 30 }
+        Self {
+            page: NonZeroU64::new(1).unwrap(),
+            size: NonZeroU64::new(30).unwrap()
+        }
     }
 }

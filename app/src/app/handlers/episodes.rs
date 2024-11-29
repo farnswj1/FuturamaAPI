@@ -17,6 +17,8 @@ pub async fn get_episodes(
     let Query(NameQuery { name }) = episode.unwrap_or_default();
     let Query(Paginator { page, size }) = paginator.unwrap_or_default();
     let path = uri.path().to_string();
+    let page = page.get() as i64;
+    let size = size.get() as i64;
 
     let episodes = db.get_episodes(&name, page, size).await?;
     let count = db.get_total_episodes(&name).await?;
