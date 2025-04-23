@@ -11,10 +11,9 @@
         </li>
       {% endif %}
       {% if page == 4 %}
-        {% let previous_previous_page = page - 2 %}
         <li>
-          <a href="{{ path }}?page={{ previous_previous_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ previous_previous_page }}">
-            {{ previous_previous_page }}
+          <a href="{{ path }}?page=2&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page 2">
+            2
           </a>
         </li>
       {% else if page > 4 %}
@@ -39,14 +38,15 @@
           </a>
         </li>
       {% endif %}
-      {% if page == total_pages - 3 %}
-        {% let next_next_page = page + 2 %}
+      {% let ellipsis_page = total_pages - 3 %}
+      {% if page == ellipsis_page %}
+        {% let next_next_page = total_pages - 1 %}
         <li>
           <a href="{{ path }}?page={{ next_next_page }}&size={{ size }}&name={{ name }}" class="pagination-link" aria-label="Go to page {{ next_next_page }}">
             {{ next_next_page }}
           </a>
         </li>
-      {% else if total_pages - 3 > page %}
+      {% else if ellipsis_page > page %}
         <li><span class="pagination-ellipsis">&hellip;</span></li>
       {% endif %}
       {% if total_pages > page %}
