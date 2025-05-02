@@ -7,7 +7,7 @@ pub struct Character {
     pub name: String,
     pub gender: Option<String>,
     pub species: Option<String>,
-	pub status: Option<String>,
+    pub status: Option<String>,
     pub created_at: DateTime<Utc>,
     pub image: Option<String>
 }
